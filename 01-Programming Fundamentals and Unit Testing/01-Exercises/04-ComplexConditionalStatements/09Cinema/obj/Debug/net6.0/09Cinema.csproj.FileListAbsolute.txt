@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\09Cinema\obj\Debug\net6.0\09Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\09Cinema\obj\Debug\net6.0\09Cinema.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\09Cinema\obj\Debug\net6.0\09Cinema.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\09Cinema\obj\Debug\net6.0\09Cinema.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\09Cinema\bin\Debug\net6.0\09Cinema.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\09Cinema\bin\Debug\net6.0\09Cinema.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\09Cinema\bin\Debug\net6.0\09Cinema.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\09Cinema\bin\Debug\net6.0\09Cinema.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\09Cinema\bin\Debug\net6.0\09Cinema.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\09Cinema\obj\Debug\net6.0\09Cinema.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\09Cinema\obj\Debug\net6.0\refint\09Cinema.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\09Cinema\obj\Debug\net6.0\09Cinema.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\09Cinema\obj\Debug\net6.0\09Cinema.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\09Cinema\obj\Debug\net6.0\ref\09Cinema.dll
