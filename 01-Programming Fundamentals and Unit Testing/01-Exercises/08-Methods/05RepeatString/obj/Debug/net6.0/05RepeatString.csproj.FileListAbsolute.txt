@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\05RepeatString\bin\Debug\net6.0\05RepeatString.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\05RepeatString\bin\Debug\net6.0\05RepeatString.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\05RepeatString\bin\Debug\net6.0\05RepeatString.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\05RepeatString\bin\Debug\net6.0\05RepeatString.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\05RepeatString\bin\Debug\net6.0\05RepeatString.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\05RepeatString\obj\Debug\net6.0\05RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\05RepeatString\obj\Debug\net6.0\05RepeatString.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\05RepeatString\obj\Debug\net6.0\05RepeatString.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\05RepeatString\obj\Debug\net6.0\05RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\05RepeatString\obj\Debug\net6.0\05RepeatString.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\05RepeatString\obj\Debug\net6.0\refint\05RepeatString.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\05RepeatString\obj\Debug\net6.0\05RepeatString.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\05RepeatString\obj\Debug\net6.0\05RepeatString.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\05RepeatString\obj\Debug\net6.0\ref\05RepeatString.dll
