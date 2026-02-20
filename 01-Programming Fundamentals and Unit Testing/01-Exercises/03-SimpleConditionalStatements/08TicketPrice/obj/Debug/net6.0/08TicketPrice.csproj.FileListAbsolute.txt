@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\08TicketPrice\bin\Debug\net6.0\08TicketPrice.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\08TicketPrice\bin\Debug\net6.0\08TicketPrice.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\08TicketPrice\bin\Debug\net6.0\08TicketPrice.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\08TicketPrice\bin\Debug\net6.0\08TicketPrice.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\08TicketPrice\bin\Debug\net6.0\08TicketPrice.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\08TicketPrice\obj\Debug\net6.0\08TicketPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\08TicketPrice\obj\Debug\net6.0\08TicketPrice.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\08TicketPrice\obj\Debug\net6.0\08TicketPrice.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\08TicketPrice\obj\Debug\net6.0\08TicketPrice.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\08TicketPrice\obj\Debug\net6.0\08TicketPrice.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\08TicketPrice\obj\Debug\net6.0\refint\08TicketPrice.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\08TicketPrice\obj\Debug\net6.0\08TicketPrice.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\08TicketPrice\obj\Debug\net6.0\08TicketPrice.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\08TicketPrice\obj\Debug\net6.0\ref\08TicketPrice.dll

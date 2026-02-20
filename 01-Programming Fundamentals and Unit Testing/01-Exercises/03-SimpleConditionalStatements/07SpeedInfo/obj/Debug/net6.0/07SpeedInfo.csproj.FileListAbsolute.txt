@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\07SpeedInfo\bin\Debug\net6.0\07SpeedInfo.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\07SpeedInfo\bin\Debug\net6.0\07SpeedInfo.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\07SpeedInfo\bin\Debug\net6.0\07SpeedInfo.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\07SpeedInfo\bin\Debug\net6.0\07SpeedInfo.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\07SpeedInfo\bin\Debug\net6.0\07SpeedInfo.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\07SpeedInfo\obj\Debug\net6.0\07SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\07SpeedInfo\obj\Debug\net6.0\07SpeedInfo.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\07SpeedInfo\obj\Debug\net6.0\07SpeedInfo.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\07SpeedInfo\obj\Debug\net6.0\07SpeedInfo.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\07SpeedInfo\obj\Debug\net6.0\07SpeedInfo.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\07SpeedInfo\obj\Debug\net6.0\refint\07SpeedInfo.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\07SpeedInfo\obj\Debug\net6.0\07SpeedInfo.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\07SpeedInfo\obj\Debug\net6.0\07SpeedInfo.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\07SpeedInfo\obj\Debug\net6.0\ref\07SpeedInfo.dll
