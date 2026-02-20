@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\03ReverseAnArray\bin\Debug\net6.0\03ReverseAnArray.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\03ReverseAnArray\bin\Debug\net6.0\03ReverseAnArray.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\03ReverseAnArray\bin\Debug\net6.0\03ReverseAnArray.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\03ReverseAnArray\bin\Debug\net6.0\03ReverseAnArray.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\03ReverseAnArray\bin\Debug\net6.0\03ReverseAnArray.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\03ReverseAnArray\obj\Debug\net6.0\03ReverseAnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\03ReverseAnArray\obj\Debug\net6.0\03ReverseAnArray.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\03ReverseAnArray\obj\Debug\net6.0\03ReverseAnArray.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\03ReverseAnArray\obj\Debug\net6.0\03ReverseAnArray.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\03ReverseAnArray\obj\Debug\net6.0\03ReverseAnArray.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\03ReverseAnArray\obj\Debug\net6.0\refint\03ReverseAnArray.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\03ReverseAnArray\obj\Debug\net6.0\03ReverseAnArray.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\03ReverseAnArray\obj\Debug\net6.0\03ReverseAnArray.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\03ReverseAnArray\obj\Debug\net6.0\ref\03ReverseAnArray.dll

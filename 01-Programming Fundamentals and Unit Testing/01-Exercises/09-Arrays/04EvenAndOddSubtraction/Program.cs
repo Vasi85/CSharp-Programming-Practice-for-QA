@@ -1,0 +1,28 @@
+﻿namespace _04EvenAndOddSubtraction
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+         int[] arr = Console.ReadLine()
+                            .Split(" ") 
+                            .Select(int.Parse)
+                            .ToArray();
+            int sumEven = 0;
+            int sumOdd = 0;
+
+            foreach (int num in arr)
+            {
+                if (num % 2 == 0)
+                {
+                    sumEven += num;
+                }
+                else
+                {
+                    sumOdd += num;
+                }
+            }
+            Console.WriteLine(sumEven - sumOdd);
+        }
+    }
+}
