@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\05SumDigits\bin\Debug\net6.0\05SumDigits.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\05SumDigits\bin\Debug\net6.0\05SumDigits.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\05SumDigits\bin\Debug\net6.0\05SumDigits.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\05SumDigits\bin\Debug\net6.0\05SumDigits.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\05SumDigits\bin\Debug\net6.0\05SumDigits.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\05SumDigits\obj\Debug\net6.0\05SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\05SumDigits\obj\Debug\net6.0\05SumDigits.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\05SumDigits\obj\Debug\net6.0\05SumDigits.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\05SumDigits\obj\Debug\net6.0\05SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\05SumDigits\obj\Debug\net6.0\05SumDigits.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\05SumDigits\obj\Debug\net6.0\refint\05SumDigits.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\05SumDigits\obj\Debug\net6.0\05SumDigits.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\05SumDigits\obj\Debug\net6.0\05SumDigits.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\05SumDigits\obj\Debug\net6.0\ref\05SumDigits.dll
