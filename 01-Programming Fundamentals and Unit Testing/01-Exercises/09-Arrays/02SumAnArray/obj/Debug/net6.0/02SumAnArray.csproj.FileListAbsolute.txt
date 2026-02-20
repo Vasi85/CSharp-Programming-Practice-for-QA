@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\02SumAnArray\bin\Debug\net6.0\02SumAnArray.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\02SumAnArray\bin\Debug\net6.0\02SumAnArray.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\02SumAnArray\bin\Debug\net6.0\02SumAnArray.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\02SumAnArray\bin\Debug\net6.0\02SumAnArray.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\02SumAnArray\bin\Debug\net6.0\02SumAnArray.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\02SumAnArray\obj\Debug\net6.0\02SumAnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\02SumAnArray\obj\Debug\net6.0\02SumAnArray.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\02SumAnArray\obj\Debug\net6.0\02SumAnArray.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\02SumAnArray\obj\Debug\net6.0\02SumAnArray.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\02SumAnArray\obj\Debug\net6.0\02SumAnArray.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\02SumAnArray\obj\Debug\net6.0\refint\02SumAnArray.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\02SumAnArray\obj\Debug\net6.0\02SumAnArray.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\02SumAnArray\obj\Debug\net6.0\02SumAnArray.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Arrays\02SumAnArray\obj\Debug\net6.0\ref\02SumAnArray.dll
