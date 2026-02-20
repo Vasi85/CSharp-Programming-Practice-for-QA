@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\02FourOperations\bin\Debug\net6.0\02FourOperations.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\02FourOperations\bin\Debug\net6.0\02FourOperations.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\02FourOperations\bin\Debug\net6.0\02FourOperations.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\02FourOperations\bin\Debug\net6.0\02FourOperations.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\02FourOperations\bin\Debug\net6.0\02FourOperations.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\02FourOperations\obj\Debug\net6.0\02FourOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\02FourOperations\obj\Debug\net6.0\02FourOperations.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\02FourOperations\obj\Debug\net6.0\02FourOperations.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\02FourOperations\obj\Debug\net6.0\02FourOperations.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\02FourOperations\obj\Debug\net6.0\02FourOperations.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\02FourOperations\obj\Debug\net6.0\refint\02FourOperations.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\02FourOperations\obj\Debug\net6.0\02FourOperations.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\02FourOperations\obj\Debug\net6.0\02FourOperations.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\02FourOperations\obj\Debug\net6.0\ref\02FourOperations.dll

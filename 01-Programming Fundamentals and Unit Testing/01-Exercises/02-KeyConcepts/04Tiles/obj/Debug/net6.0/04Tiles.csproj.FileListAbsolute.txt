@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\04Tiles\obj\Debug\net6.0\04Tiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\04Tiles\obj\Debug\net6.0\04Tiles.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\04Tiles\obj\Debug\net6.0\04Tiles.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\04Tiles\obj\Debug\net6.0\04Tiles.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\04Tiles\bin\Debug\net6.0\04Tiles.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\04Tiles\bin\Debug\net6.0\04Tiles.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\04Tiles\bin\Debug\net6.0\04Tiles.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\04Tiles\bin\Debug\net6.0\04Tiles.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\04Tiles\bin\Debug\net6.0\04Tiles.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\04Tiles\obj\Debug\net6.0\04Tiles.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\04Tiles\obj\Debug\net6.0\refint\04Tiles.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\04Tiles\obj\Debug\net6.0\04Tiles.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\04Tiles\obj\Debug\net6.0\04Tiles.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\04Tiles\obj\Debug\net6.0\ref\04Tiles.dll
