@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\06MandatoryLiterature\bin\Debug\net6.0\06MandatoryLiterature.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\06MandatoryLiterature\bin\Debug\net6.0\06MandatoryLiterature.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\06MandatoryLiterature\bin\Debug\net6.0\06MandatoryLiterature.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\06MandatoryLiterature\bin\Debug\net6.0\06MandatoryLiterature.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\06MandatoryLiterature\bin\Debug\net6.0\06MandatoryLiterature.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\06MandatoryLiterature\obj\Debug\net6.0\06MandatoryLiterature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\06MandatoryLiterature\obj\Debug\net6.0\06MandatoryLiterature.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\06MandatoryLiterature\obj\Debug\net6.0\06MandatoryLiterature.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\06MandatoryLiterature\obj\Debug\net6.0\06MandatoryLiterature.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\06MandatoryLiterature\obj\Debug\net6.0\06MandatoryLiterature.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\06MandatoryLiterature\obj\Debug\net6.0\refint\06MandatoryLiterature.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\06MandatoryLiterature\obj\Debug\net6.0\06MandatoryLiterature.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\06MandatoryLiterature\obj\Debug\net6.0\06MandatoryLiterature.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\06MandatoryLiterature\obj\Debug\net6.0\ref\06MandatoryLiterature.dll

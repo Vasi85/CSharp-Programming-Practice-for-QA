@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\07SuppliesForSchool\bin\Debug\net6.0\07SuppliesForSchool.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\07SuppliesForSchool\bin\Debug\net6.0\07SuppliesForSchool.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\07SuppliesForSchool\bin\Debug\net6.0\07SuppliesForSchool.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\07SuppliesForSchool\bin\Debug\net6.0\07SuppliesForSchool.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\07SuppliesForSchool\bin\Debug\net6.0\07SuppliesForSchool.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\07SuppliesForSchool\obj\Debug\net6.0\07SuppliesForSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\07SuppliesForSchool\obj\Debug\net6.0\07SuppliesForSchool.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\07SuppliesForSchool\obj\Debug\net6.0\07SuppliesForSchool.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\07SuppliesForSchool\obj\Debug\net6.0\07SuppliesForSchool.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\07SuppliesForSchool\obj\Debug\net6.0\07SuppliesForSchool.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\07SuppliesForSchool\obj\Debug\net6.0\refint\07SuppliesForSchool.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\07SuppliesForSchool\obj\Debug\net6.0\07SuppliesForSchool.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\07SuppliesForSchool\obj\Debug\net6.0\07SuppliesForSchool.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\07SuppliesForSchool\obj\Debug\net6.0\ref\07SuppliesForSchool.dll

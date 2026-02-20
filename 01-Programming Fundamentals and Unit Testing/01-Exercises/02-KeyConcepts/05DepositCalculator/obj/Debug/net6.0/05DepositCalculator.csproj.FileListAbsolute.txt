@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\05DepositCalculator\bin\Debug\net6.0\05DepositCalculator.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\05DepositCalculator\bin\Debug\net6.0\05DepositCalculator.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\05DepositCalculator\bin\Debug\net6.0\05DepositCalculator.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\05DepositCalculator\bin\Debug\net6.0\05DepositCalculator.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\05DepositCalculator\bin\Debug\net6.0\05DepositCalculator.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\05DepositCalculator\obj\Debug\net6.0\05DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\05DepositCalculator\obj\Debug\net6.0\05DepositCalculator.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\05DepositCalculator\obj\Debug\net6.0\05DepositCalculator.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\05DepositCalculator\obj\Debug\net6.0\05DepositCalculator.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\05DepositCalculator\obj\Debug\net6.0\05DepositCalculator.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\05DepositCalculator\obj\Debug\net6.0\refint\05DepositCalculator.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\05DepositCalculator\obj\Debug\net6.0\05DepositCalculator.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\05DepositCalculator\obj\Debug\net6.0\05DepositCalculator.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\05DepositCalculator\obj\Debug\net6.0\ref\05DepositCalculator.dll
