@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\07GreaterOfTwoValues\bin\Debug\net6.0\07GreaterOfTwoValues.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\07GreaterOfTwoValues\bin\Debug\net6.0\07GreaterOfTwoValues.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\07GreaterOfTwoValues\bin\Debug\net6.0\07GreaterOfTwoValues.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\07GreaterOfTwoValues\bin\Debug\net6.0\07GreaterOfTwoValues.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\07GreaterOfTwoValues\bin\Debug\net6.0\07GreaterOfTwoValues.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\07GreaterOfTwoValues\obj\Debug\net6.0\07GreaterOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\07GreaterOfTwoValues\obj\Debug\net6.0\07GreaterOfTwoValues.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\07GreaterOfTwoValues\obj\Debug\net6.0\07GreaterOfTwoValues.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\07GreaterOfTwoValues\obj\Debug\net6.0\07GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\07GreaterOfTwoValues\obj\Debug\net6.0\07GreaterOfTwoValues.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\07GreaterOfTwoValues\obj\Debug\net6.0\refint\07GreaterOfTwoValues.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\07GreaterOfTwoValues\obj\Debug\net6.0\07GreaterOfTwoValues.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\07GreaterOfTwoValues\obj\Debug\net6.0\07GreaterOfTwoValues.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\07GreaterOfTwoValues\obj\Debug\net6.0\ref\07GreaterOfTwoValues.dll

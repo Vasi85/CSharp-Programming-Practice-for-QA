@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\06MathPower\bin\Debug\net6.0\06MathPower.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\06MathPower\bin\Debug\net6.0\06MathPower.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\06MathPower\bin\Debug\net6.0\06MathPower.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\06MathPower\bin\Debug\net6.0\06MathPower.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\06MathPower\bin\Debug\net6.0\06MathPower.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\06MathPower\obj\Debug\net6.0\06MathPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\06MathPower\obj\Debug\net6.0\06MathPower.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\06MathPower\obj\Debug\net6.0\06MathPower.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\06MathPower\obj\Debug\net6.0\06MathPower.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\06MathPower\obj\Debug\net6.0\06MathPower.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\06MathPower\obj\Debug\net6.0\refint\06MathPower.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\06MathPower\obj\Debug\net6.0\06MathPower.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\06MathPower\obj\Debug\net6.0\06MathPower.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\06MathPower\obj\Debug\net6.0\ref\06MathPower.dll
