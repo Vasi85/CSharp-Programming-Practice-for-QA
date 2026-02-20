@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\05NumberPyramid\bin\Debug\net6.0\05NumberPyramid.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\05NumberPyramid\bin\Debug\net6.0\05NumberPyramid.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\05NumberPyramid\bin\Debug\net6.0\05NumberPyramid.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\05NumberPyramid\bin\Debug\net6.0\05NumberPyramid.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\05NumberPyramid\bin\Debug\net6.0\05NumberPyramid.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\05NumberPyramid\obj\Debug\net6.0\05NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\05NumberPyramid\obj\Debug\net6.0\05NumberPyramid.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\05NumberPyramid\obj\Debug\net6.0\05NumberPyramid.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\05NumberPyramid\obj\Debug\net6.0\05NumberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\05NumberPyramid\obj\Debug\net6.0\05NumberPyramid.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\05NumberPyramid\obj\Debug\net6.0\refint\05NumberPyramid.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\05NumberPyramid\obj\Debug\net6.0\05NumberPyramid.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\05NumberPyramid\obj\Debug\net6.0\05NumberPyramid.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\05NumberPyramid\obj\Debug\net6.0\ref\05NumberPyramid.dll

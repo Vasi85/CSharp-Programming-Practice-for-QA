@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\06TravelSavings\bin\Debug\net6.0\06TravelSavings.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\06TravelSavings\bin\Debug\net6.0\06TravelSavings.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\06TravelSavings\bin\Debug\net6.0\06TravelSavings.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\06TravelSavings\bin\Debug\net6.0\06TravelSavings.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\06TravelSavings\bin\Debug\net6.0\06TravelSavings.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\06TravelSavings\obj\Debug\net6.0\06TravelSavings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\06TravelSavings\obj\Debug\net6.0\06TravelSavings.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\06TravelSavings\obj\Debug\net6.0\06TravelSavings.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\06TravelSavings\obj\Debug\net6.0\06TravelSavings.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\06TravelSavings\obj\Debug\net6.0\06TravelSavings.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\06TravelSavings\obj\Debug\net6.0\refint\06TravelSavings.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\06TravelSavings\obj\Debug\net6.0\06TravelSavings.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\06TravelSavings\obj\Debug\net6.0\06TravelSavings.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\06TravelSavings\obj\Debug\net6.0\ref\06TravelSavings.dll
