@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\07VowelOrConsonant\bin\Debug\net6.0\07VowelOrConsonant.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\07VowelOrConsonant\bin\Debug\net6.0\07VowelOrConsonant.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\07VowelOrConsonant\bin\Debug\net6.0\07VowelOrConsonant.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\07VowelOrConsonant\bin\Debug\net6.0\07VowelOrConsonant.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\07VowelOrConsonant\bin\Debug\net6.0\07VowelOrConsonant.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\07VowelOrConsonant\obj\Debug\net6.0\07VowelOrConsonant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\07VowelOrConsonant\obj\Debug\net6.0\07VowelOrConsonant.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\07VowelOrConsonant\obj\Debug\net6.0\07VowelOrConsonant.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\07VowelOrConsonant\obj\Debug\net6.0\07VowelOrConsonant.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\07VowelOrConsonant\obj\Debug\net6.0\07VowelOrConsonant.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\07VowelOrConsonant\obj\Debug\net6.0\refint\07VowelOrConsonant.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\07VowelOrConsonant\obj\Debug\net6.0\07VowelOrConsonant.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\07VowelOrConsonant\obj\Debug\net6.0\07VowelOrConsonant.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\07VowelOrConsonant\obj\Debug\net6.0\ref\07VowelOrConsonant.dll
