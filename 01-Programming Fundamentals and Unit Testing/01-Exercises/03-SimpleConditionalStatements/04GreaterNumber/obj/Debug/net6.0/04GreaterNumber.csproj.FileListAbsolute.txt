@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04GreaterNumber\bin\Debug\net6.0\04GreaterNumber.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04GreaterNumber\bin\Debug\net6.0\04GreaterNumber.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04GreaterNumber\bin\Debug\net6.0\04GreaterNumber.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04GreaterNumber\bin\Debug\net6.0\04GreaterNumber.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04GreaterNumber\bin\Debug\net6.0\04GreaterNumber.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04GreaterNumber\obj\Debug\net6.0\04GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04GreaterNumber\obj\Debug\net6.0\04GreaterNumber.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04GreaterNumber\obj\Debug\net6.0\04GreaterNumber.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04GreaterNumber\obj\Debug\net6.0\04GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04GreaterNumber\obj\Debug\net6.0\04GreaterNumber.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04GreaterNumber\obj\Debug\net6.0\refint\04GreaterNumber.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04GreaterNumber\obj\Debug\net6.0\04GreaterNumber.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04GreaterNumber\obj\Debug\net6.0\04GreaterNumber.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04GreaterNumber\obj\Debug\net6.0\ref\04GreaterNumber.dll

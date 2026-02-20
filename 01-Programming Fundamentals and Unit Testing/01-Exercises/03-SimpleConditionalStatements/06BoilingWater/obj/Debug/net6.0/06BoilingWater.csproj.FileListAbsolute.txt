@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06BoilingWater\bin\Debug\net6.0\06BoilingWater.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06BoilingWater\bin\Debug\net6.0\06BoilingWater.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06BoilingWater\bin\Debug\net6.0\06BoilingWater.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06BoilingWater\bin\Debug\net6.0\06BoilingWater.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06BoilingWater\bin\Debug\net6.0\06BoilingWater.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06BoilingWater\obj\Debug\net6.0\06BoilingWater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06BoilingWater\obj\Debug\net6.0\06BoilingWater.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06BoilingWater\obj\Debug\net6.0\06BoilingWater.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06BoilingWater\obj\Debug\net6.0\06BoilingWater.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06BoilingWater\obj\Debug\net6.0\06BoilingWater.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06BoilingWater\obj\Debug\net6.0\refint\06BoilingWater.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06BoilingWater\obj\Debug\net6.0\06BoilingWater.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06BoilingWater\obj\Debug\net6.0\06BoilingWater.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06BoilingWater\obj\Debug\net6.0\ref\06BoilingWater.dll
