@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\06ExamCountdown\obj\Debug\net6.0\06ExamCountdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\06ExamCountdown\obj\Debug\net6.0\06ExamCountdown.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\06ExamCountdown\obj\Debug\net6.0\06ExamCountdown.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\06ExamCountdown\obj\Debug\net6.0\06ExamCountdown.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\06ExamCountdown\bin\Debug\net6.0\06ExamCountdown.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\06ExamCountdown\bin\Debug\net6.0\06ExamCountdown.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\06ExamCountdown\bin\Debug\net6.0\06ExamCountdown.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\06ExamCountdown\bin\Debug\net6.0\06ExamCountdown.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\06ExamCountdown\bin\Debug\net6.0\06ExamCountdown.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\06ExamCountdown\obj\Debug\net6.0\06ExamCountdown.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\06ExamCountdown\obj\Debug\net6.0\refint\06ExamCountdown.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\06ExamCountdown\obj\Debug\net6.0\06ExamCountdown.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\06ExamCountdown\obj\Debug\net6.0\06ExamCountdown.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\06ExamCountdown\obj\Debug\net6.0\ref\06ExamCountdown.dll

@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\07LatinLetters\bin\Debug\net6.0\07LatinLetters.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\07LatinLetters\bin\Debug\net6.0\07LatinLetters.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\07LatinLetters\bin\Debug\net6.0\07LatinLetters.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\07LatinLetters\bin\Debug\net6.0\07LatinLetters.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\07LatinLetters\bin\Debug\net6.0\07LatinLetters.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\07LatinLetters\obj\Debug\net6.0\07LatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\07LatinLetters\obj\Debug\net6.0\07LatinLetters.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\07LatinLetters\obj\Debug\net6.0\07LatinLetters.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\07LatinLetters\obj\Debug\net6.0\07LatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\07LatinLetters\obj\Debug\net6.0\07LatinLetters.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\07LatinLetters\obj\Debug\net6.0\refint\07LatinLetters.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\07LatinLetters\obj\Debug\net6.0\07LatinLetters.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\07LatinLetters\obj\Debug\net6.0\07LatinLetters.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\07LatinLetters\obj\Debug\net6.0\ref\07LatinLetters.dll
