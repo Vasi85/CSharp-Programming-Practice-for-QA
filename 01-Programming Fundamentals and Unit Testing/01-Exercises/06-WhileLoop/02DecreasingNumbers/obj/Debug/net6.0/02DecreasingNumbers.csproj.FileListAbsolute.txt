@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\02DecreasingNumbers\bin\Debug\net6.0\02DecreasingNumbers.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\02DecreasingNumbers\bin\Debug\net6.0\02DecreasingNumbers.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\02DecreasingNumbers\bin\Debug\net6.0\02DecreasingNumbers.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\02DecreasingNumbers\bin\Debug\net6.0\02DecreasingNumbers.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\02DecreasingNumbers\bin\Debug\net6.0\02DecreasingNumbers.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\02DecreasingNumbers\obj\Debug\net6.0\02DecreasingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\02DecreasingNumbers\obj\Debug\net6.0\02DecreasingNumbers.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\02DecreasingNumbers\obj\Debug\net6.0\02DecreasingNumbers.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\02DecreasingNumbers\obj\Debug\net6.0\02DecreasingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\02DecreasingNumbers\obj\Debug\net6.0\02DecreasingNumbers.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\02DecreasingNumbers\obj\Debug\net6.0\refint\02DecreasingNumbers.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\02DecreasingNumbers\obj\Debug\net6.0\02DecreasingNumbers.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\02DecreasingNumbers\obj\Debug\net6.0\02DecreasingNumbers.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\02DecreasingNumbers\obj\Debug\net6.0\ref\02DecreasingNumbers.dll

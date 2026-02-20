@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\03OddNumber\bin\Debug\net6.0\03OddNumber.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\03OddNumber\bin\Debug\net6.0\03OddNumber.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\03OddNumber\bin\Debug\net6.0\03OddNumber.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\03OddNumber\bin\Debug\net6.0\03OddNumber.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\03OddNumber\bin\Debug\net6.0\03OddNumber.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\03OddNumber\obj\Debug\net6.0\03OddNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\03OddNumber\obj\Debug\net6.0\03OddNumber.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\03OddNumber\obj\Debug\net6.0\03OddNumber.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\03OddNumber\obj\Debug\net6.0\03OddNumber.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\03OddNumber\obj\Debug\net6.0\03OddNumber.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\03OddNumber\obj\Debug\net6.0\refint\03OddNumber.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\03OddNumber\obj\Debug\net6.0\03OddNumber.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\03OddNumber\obj\Debug\net6.0\03OddNumber.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\03OddNumber\obj\Debug\net6.0\ref\03OddNumber.dll
