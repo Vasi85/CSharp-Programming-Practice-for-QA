@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\03PrintingTriangle\bin\Debug\net6.0\03PrintingTriangle.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\03PrintingTriangle\bin\Debug\net6.0\03PrintingTriangle.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\03PrintingTriangle\bin\Debug\net6.0\03PrintingTriangle.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\03PrintingTriangle\bin\Debug\net6.0\03PrintingTriangle.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\03PrintingTriangle\bin\Debug\net6.0\03PrintingTriangle.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\03PrintingTriangle\obj\Debug\net6.0\03PrintingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\03PrintingTriangle\obj\Debug\net6.0\03PrintingTriangle.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\03PrintingTriangle\obj\Debug\net6.0\03PrintingTriangle.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\03PrintingTriangle\obj\Debug\net6.0\03PrintingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\03PrintingTriangle\obj\Debug\net6.0\03PrintingTriangle.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\03PrintingTriangle\obj\Debug\net6.0\refint\03PrintingTriangle.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\03PrintingTriangle\obj\Debug\net6.0\03PrintingTriangle.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\03PrintingTriangle\obj\Debug\net6.0\03PrintingTriangle.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Methods\03PrintingTriangle\obj\Debug\net6.0\ref\03PrintingTriangle.dll
