@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\10CalculateSpeed\bin\Debug\net6.0\10CalculateSpeed.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\10CalculateSpeed\bin\Debug\net6.0\10CalculateSpeed.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\10CalculateSpeed\bin\Debug\net6.0\10CalculateSpeed.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\10CalculateSpeed\bin\Debug\net6.0\10CalculateSpeed.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\10CalculateSpeed\bin\Debug\net6.0\10CalculateSpeed.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\10CalculateSpeed\obj\Debug\net6.0\10CalculateSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\10CalculateSpeed\obj\Debug\net6.0\10CalculateSpeed.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\10CalculateSpeed\obj\Debug\net6.0\10CalculateSpeed.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\10CalculateSpeed\obj\Debug\net6.0\10CalculateSpeed.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\10CalculateSpeed\obj\Debug\net6.0\10CalculateSpeed.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\10CalculateSpeed\obj\Debug\net6.0\refint\10CalculateSpeed.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\10CalculateSpeed\obj\Debug\net6.0\10CalculateSpeed.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\10CalculateSpeed\obj\Debug\net6.0\10CalculateSpeed.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\10CalculateSpeed\obj\Debug\net6.0\ref\10CalculateSpeed.dll
