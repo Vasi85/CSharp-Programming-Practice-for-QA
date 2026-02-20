@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\06NumberInRange\bin\Debug\net6.0\06NumberInRange.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\06NumberInRange\bin\Debug\net6.0\06NumberInRange.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\06NumberInRange\bin\Debug\net6.0\06NumberInRange.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\06NumberInRange\bin\Debug\net6.0\06NumberInRange.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\06NumberInRange\bin\Debug\net6.0\06NumberInRange.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\06NumberInRange\obj\Debug\net6.0\06NumberInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\06NumberInRange\obj\Debug\net6.0\06NumberInRange.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\06NumberInRange\obj\Debug\net6.0\06NumberInRange.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\06NumberInRange\obj\Debug\net6.0\06NumberInRange.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\06NumberInRange\obj\Debug\net6.0\06NumberInRange.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\06NumberInRange\obj\Debug\net6.0\refint\06NumberInRange.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\06NumberInRange\obj\Debug\net6.0\06NumberInRange.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\06NumberInRange\obj\Debug\net6.0\06NumberInRange.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\06NumberInRange\obj\Debug\net6.0\ref\06NumberInRange.dll

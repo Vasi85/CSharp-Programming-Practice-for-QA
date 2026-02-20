@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\07NumberProcessor\bin\Debug\net6.0\07NumberProcessor.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\07NumberProcessor\bin\Debug\net6.0\07NumberProcessor.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\07NumberProcessor\bin\Debug\net6.0\07NumberProcessor.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\07NumberProcessor\bin\Debug\net6.0\07NumberProcessor.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\07NumberProcessor\bin\Debug\net6.0\07NumberProcessor.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\07NumberProcessor\obj\Debug\net6.0\07NumberProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\07NumberProcessor\obj\Debug\net6.0\07NumberProcessor.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\07NumberProcessor\obj\Debug\net6.0\07NumberProcessor.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\07NumberProcessor\obj\Debug\net6.0\07NumberProcessor.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\07NumberProcessor\obj\Debug\net6.0\07NumberProcessor.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\07NumberProcessor\obj\Debug\net6.0\refint\07NumberProcessor.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\07NumberProcessor\obj\Debug\net6.0\07NumberProcessor.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\07NumberProcessor\obj\Debug\net6.0\07NumberProcessor.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\WhileLoop\07NumberProcessor\obj\Debug\net6.0\ref\07NumberProcessor.dll
