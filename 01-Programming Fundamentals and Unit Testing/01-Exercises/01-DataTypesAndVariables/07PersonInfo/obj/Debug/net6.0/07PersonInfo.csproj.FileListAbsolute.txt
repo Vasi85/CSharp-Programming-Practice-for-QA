@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\07PersonInfo\bin\Debug\net6.0\07PersonInfo.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\07PersonInfo\bin\Debug\net6.0\07PersonInfo.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\07PersonInfo\bin\Debug\net6.0\07PersonInfo.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\07PersonInfo\bin\Debug\net6.0\07PersonInfo.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\07PersonInfo\bin\Debug\net6.0\07PersonInfo.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\07PersonInfo\obj\Debug\net6.0\07PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\07PersonInfo\obj\Debug\net6.0\07PersonInfo.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\07PersonInfo\obj\Debug\net6.0\07PersonInfo.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\07PersonInfo\obj\Debug\net6.0\07PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\07PersonInfo\obj\Debug\net6.0\07PersonInfo.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\07PersonInfo\obj\Debug\net6.0\refint\07PersonInfo.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\07PersonInfo\obj\Debug\net6.0\07PersonInfo.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\07PersonInfo\obj\Debug\net6.0\07PersonInfo.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\07PersonInfo\obj\Debug\net6.0\ref\07PersonInfo.dll

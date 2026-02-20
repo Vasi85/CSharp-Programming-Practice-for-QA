@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\09DaysInMinutes\obj\Debug\net6.0\09DaysInMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\09DaysInMinutes\obj\Debug\net6.0\09DaysInMinutes.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\09DaysInMinutes\obj\Debug\net6.0\09DaysInMinutes.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\09DaysInMinutes\obj\Debug\net6.0\09DaysInMinutes.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\09DaysInMinutes\bin\Debug\net6.0\09DaysInMinutes.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\09DaysInMinutes\bin\Debug\net6.0\09DaysInMinutes.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\09DaysInMinutes\bin\Debug\net6.0\09DaysInMinutes.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\09DaysInMinutes\bin\Debug\net6.0\09DaysInMinutes.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\09DaysInMinutes\bin\Debug\net6.0\09DaysInMinutes.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\09DaysInMinutes\obj\Debug\net6.0\09DaysInMinutes.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\09DaysInMinutes\obj\Debug\net6.0\refint\09DaysInMinutes.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\09DaysInMinutes\obj\Debug\net6.0\09DaysInMinutes.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\09DaysInMinutes\obj\Debug\net6.0\09DaysInMinutes.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\09DaysInMinutes\obj\Debug\net6.0\ref\09DaysInMinutes.dll
