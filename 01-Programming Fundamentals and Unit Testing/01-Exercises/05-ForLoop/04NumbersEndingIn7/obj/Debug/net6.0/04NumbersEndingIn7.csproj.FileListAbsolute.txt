@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\ForLoop\04NumbersEndingIn7\bin\Debug\net6.0\04NumbersEndingIn7.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\ForLoop\04NumbersEndingIn7\bin\Debug\net6.0\04NumbersEndingIn7.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\ForLoop\04NumbersEndingIn7\bin\Debug\net6.0\04NumbersEndingIn7.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\ForLoop\04NumbersEndingIn7\bin\Debug\net6.0\04NumbersEndingIn7.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\ForLoop\04NumbersEndingIn7\bin\Debug\net6.0\04NumbersEndingIn7.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\ForLoop\04NumbersEndingIn7\obj\Debug\net6.0\04NumbersEndingIn7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\ForLoop\04NumbersEndingIn7\obj\Debug\net6.0\04NumbersEndingIn7.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\ForLoop\04NumbersEndingIn7\obj\Debug\net6.0\04NumbersEndingIn7.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\ForLoop\04NumbersEndingIn7\obj\Debug\net6.0\04NumbersEndingIn7.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\ForLoop\04NumbersEndingIn7\obj\Debug\net6.0\04NumbersEndingIn7.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\ForLoop\04NumbersEndingIn7\obj\Debug\net6.0\refint\04NumbersEndingIn7.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\ForLoop\04NumbersEndingIn7\obj\Debug\net6.0\04NumbersEndingIn7.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\ForLoop\04NumbersEndingIn7\obj\Debug\net6.0\04NumbersEndingIn7.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\ForLoop\04NumbersEndingIn7\obj\Debug\net6.0\ref\04NumbersEndingIn7.dll
