@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\NestedLoops\01NumbersFromNTo1\bin\Debug\net6.0\01NumbersFromNTo1.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\NestedLoops\01NumbersFromNTo1\bin\Debug\net6.0\01NumbersFromNTo1.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\NestedLoops\01NumbersFromNTo1\bin\Debug\net6.0\01NumbersFromNTo1.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\NestedLoops\01NumbersFromNTo1\bin\Debug\net6.0\01NumbersFromNTo1.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\NestedLoops\01NumbersFromNTo1\bin\Debug\net6.0\01NumbersFromNTo1.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\NestedLoops\01NumbersFromNTo1\obj\Debug\net6.0\01NumbersFromNTo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\NestedLoops\01NumbersFromNTo1\obj\Debug\net6.0\01NumbersFromNTo1.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\NestedLoops\01NumbersFromNTo1\obj\Debug\net6.0\01NumbersFromNTo1.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\NestedLoops\01NumbersFromNTo1\obj\Debug\net6.0\01NumbersFromNTo1.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\NestedLoops\01NumbersFromNTo1\obj\Debug\net6.0\01NumbersFromNTo1.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\NestedLoops\01NumbersFromNTo1\obj\Debug\net6.0\refint\01NumbersFromNTo1.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\NestedLoops\01NumbersFromNTo1\obj\Debug\net6.0\01NumbersFromNTo1.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\NestedLoops\01NumbersFromNTo1\obj\Debug\net6.0\01NumbersFromNTo1.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\NestedLoops\01NumbersFromNTo1\obj\Debug\net6.0\ref\01NumbersFromNTo1.dll
