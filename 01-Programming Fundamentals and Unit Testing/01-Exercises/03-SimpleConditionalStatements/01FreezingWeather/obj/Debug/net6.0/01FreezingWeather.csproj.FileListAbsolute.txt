@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\01FreezingWeather\bin\Debug\net6.0\01FreezingWeather.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\01FreezingWeather\bin\Debug\net6.0\01FreezingWeather.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\01FreezingWeather\bin\Debug\net6.0\01FreezingWeather.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\01FreezingWeather\bin\Debug\net6.0\01FreezingWeather.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\01FreezingWeather\bin\Debug\net6.0\01FreezingWeather.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\01FreezingWeather\obj\Debug\net6.0\01FreezingWeather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\01FreezingWeather\obj\Debug\net6.0\01FreezingWeather.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\01FreezingWeather\obj\Debug\net6.0\01FreezingWeather.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\01FreezingWeather\obj\Debug\net6.0\01FreezingWeather.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\01FreezingWeather\obj\Debug\net6.0\01FreezingWeather.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\01FreezingWeather\obj\Debug\net6.0\refint\01FreezingWeather.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\01FreezingWeather\obj\Debug\net6.0\01FreezingWeather.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\01FreezingWeather\obj\Debug\net6.0\01FreezingWeather.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\01FreezingWeather\obj\Debug\net6.0\ref\01FreezingWeather.dll

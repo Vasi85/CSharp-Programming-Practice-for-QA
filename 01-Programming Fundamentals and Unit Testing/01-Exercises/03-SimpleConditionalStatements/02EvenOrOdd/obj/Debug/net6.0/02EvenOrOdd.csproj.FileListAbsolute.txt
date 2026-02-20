@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02EvenOrOdd\bin\Debug\net6.0\02EvenOrOdd.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02EvenOrOdd\bin\Debug\net6.0\02EvenOrOdd.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02EvenOrOdd\bin\Debug\net6.0\02EvenOrOdd.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02EvenOrOdd\bin\Debug\net6.0\02EvenOrOdd.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02EvenOrOdd\bin\Debug\net6.0\02EvenOrOdd.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02EvenOrOdd\obj\Debug\net6.0\02EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02EvenOrOdd\obj\Debug\net6.0\02EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02EvenOrOdd\obj\Debug\net6.0\02EvenOrOdd.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02EvenOrOdd\obj\Debug\net6.0\02EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02EvenOrOdd\obj\Debug\net6.0\02EvenOrOdd.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02EvenOrOdd\obj\Debug\net6.0\refint\02EvenOrOdd.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02EvenOrOdd\obj\Debug\net6.0\02EvenOrOdd.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02EvenOrOdd\obj\Debug\net6.0\02EvenOrOdd.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02EvenOrOdd\obj\Debug\net6.0\ref\02EvenOrOdd.dll
