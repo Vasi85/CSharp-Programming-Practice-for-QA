@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\04FoodOrDrink\bin\Debug\net6.0\04FoodOrDrink.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\04FoodOrDrink\bin\Debug\net6.0\04FoodOrDrink.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\04FoodOrDrink\bin\Debug\net6.0\04FoodOrDrink.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\04FoodOrDrink\bin\Debug\net6.0\04FoodOrDrink.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\04FoodOrDrink\bin\Debug\net6.0\04FoodOrDrink.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\04FoodOrDrink\obj\Debug\net6.0\04FoodOrDrink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\04FoodOrDrink\obj\Debug\net6.0\04FoodOrDrink.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\04FoodOrDrink\obj\Debug\net6.0\04FoodOrDrink.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\04FoodOrDrink\obj\Debug\net6.0\04FoodOrDrink.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\04FoodOrDrink\obj\Debug\net6.0\04FoodOrDrink.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\04FoodOrDrink\obj\Debug\net6.0\refint\04FoodOrDrink.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\04FoodOrDrink\obj\Debug\net6.0\04FoodOrDrink.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\04FoodOrDrink\obj\Debug\net6.0\04FoodOrDrink.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\04FoodOrDrink\obj\Debug\net6.0\ref\04FoodOrDrink.dll

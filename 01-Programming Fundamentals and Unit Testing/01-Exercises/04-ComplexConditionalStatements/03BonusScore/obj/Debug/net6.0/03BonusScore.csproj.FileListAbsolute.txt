@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\03BonusScore\bin\Debug\net6.0\03BonusScore.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\03BonusScore\bin\Debug\net6.0\03BonusScore.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\03BonusScore\bin\Debug\net6.0\03BonusScore.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\03BonusScore\bin\Debug\net6.0\03BonusScore.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\03BonusScore\bin\Debug\net6.0\03BonusScore.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\03BonusScore\obj\Debug\net6.0\03BonusScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\03BonusScore\obj\Debug\net6.0\03BonusScore.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\03BonusScore\obj\Debug\net6.0\03BonusScore.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\03BonusScore\obj\Debug\net6.0\03BonusScore.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\03BonusScore\obj\Debug\net6.0\03BonusScore.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\03BonusScore\obj\Debug\net6.0\refint\03BonusScore.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\03BonusScore\obj\Debug\net6.0\03BonusScore.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\03BonusScore\obj\Debug\net6.0\03BonusScore.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\03BonusScore\obj\Debug\net6.0\ref\03BonusScore.dll

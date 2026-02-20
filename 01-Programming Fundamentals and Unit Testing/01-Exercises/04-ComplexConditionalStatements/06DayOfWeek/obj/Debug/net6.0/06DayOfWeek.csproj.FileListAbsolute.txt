@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\06DayOfWeek\bin\Debug\net6.0\06DayOfWeek.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\06DayOfWeek\bin\Debug\net6.0\06DayOfWeek.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\06DayOfWeek\bin\Debug\net6.0\06DayOfWeek.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\06DayOfWeek\bin\Debug\net6.0\06DayOfWeek.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\06DayOfWeek\bin\Debug\net6.0\06DayOfWeek.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\06DayOfWeek\obj\Debug\net6.0\06DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\06DayOfWeek\obj\Debug\net6.0\06DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\06DayOfWeek\obj\Debug\net6.0\06DayOfWeek.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\06DayOfWeek\obj\Debug\net6.0\06DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\06DayOfWeek\obj\Debug\net6.0\06DayOfWeek.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\06DayOfWeek\obj\Debug\net6.0\refint\06DayOfWeek.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\06DayOfWeek\obj\Debug\net6.0\06DayOfWeek.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\06DayOfWeek\obj\Debug\net6.0\06DayOfWeek.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ComplexConditionalStatements\06DayOfWeek\obj\Debug\net6.0\ref\06DayOfWeek.dll
