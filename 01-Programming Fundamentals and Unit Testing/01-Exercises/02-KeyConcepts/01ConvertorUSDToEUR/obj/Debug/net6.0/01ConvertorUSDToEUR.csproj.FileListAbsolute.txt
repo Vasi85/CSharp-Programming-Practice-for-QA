@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\01ConvertorUSDToEUR\bin\Debug\net6.0\01ConvertorUSDToEUR.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\01ConvertorUSDToEUR\bin\Debug\net6.0\01ConvertorUSDToEUR.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\01ConvertorUSDToEUR\bin\Debug\net6.0\01ConvertorUSDToEUR.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\01ConvertorUSDToEUR\bin\Debug\net6.0\01ConvertorUSDToEUR.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\01ConvertorUSDToEUR\bin\Debug\net6.0\01ConvertorUSDToEUR.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\01ConvertorUSDToEUR\obj\Debug\net6.0\01ConvertorUSDToEUR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\01ConvertorUSDToEUR\obj\Debug\net6.0\01ConvertorUSDToEUR.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\01ConvertorUSDToEUR\obj\Debug\net6.0\01ConvertorUSDToEUR.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\01ConvertorUSDToEUR\obj\Debug\net6.0\01ConvertorUSDToEUR.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\01ConvertorUSDToEUR\obj\Debug\net6.0\01ConvertorUSDToEUR.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\01ConvertorUSDToEUR\obj\Debug\net6.0\refint\01ConvertorUSDToEUR.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\01ConvertorUSDToEUR\obj\Debug\net6.0\01ConvertorUSDToEUR.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\01ConvertorUSDToEUR\obj\Debug\net6.0\01ConvertorUSDToEUR.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\KeyConcepts\01ConvertorUSDToEUR\obj\Debug\net6.0\ref\01ConvertorUSDToEUR.dll
