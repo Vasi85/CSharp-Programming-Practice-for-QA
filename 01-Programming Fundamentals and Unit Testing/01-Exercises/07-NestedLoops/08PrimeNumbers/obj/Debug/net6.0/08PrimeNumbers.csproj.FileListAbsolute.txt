@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\08PrimeNumbers\bin\Debug\net6.0\08PrimeNumbers.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\08PrimeNumbers\bin\Debug\net6.0\08PrimeNumbers.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\08PrimeNumbers\bin\Debug\net6.0\08PrimeNumbers.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\08PrimeNumbers\bin\Debug\net6.0\08PrimeNumbers.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\08PrimeNumbers\bin\Debug\net6.0\08PrimeNumbers.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\08PrimeNumbers\obj\Debug\net6.0\08PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\08PrimeNumbers\obj\Debug\net6.0\08PrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\08PrimeNumbers\obj\Debug\net6.0\08PrimeNumbers.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\08PrimeNumbers\obj\Debug\net6.0\08PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\08PrimeNumbers\obj\Debug\net6.0\08PrimeNumbers.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\08PrimeNumbers\obj\Debug\net6.0\refint\08PrimeNumbers.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\08PrimeNumbers\obj\Debug\net6.0\08PrimeNumbers.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\08PrimeNumbers\obj\Debug\net6.0\08PrimeNumbers.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\08PrimeNumbers\obj\Debug\net6.0\ref\08PrimeNumbers.dll

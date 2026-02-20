@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\07SumOfDigitsCalculator\bin\Debug\net6.0\07SumOfDigitsCalculator.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\07SumOfDigitsCalculator\bin\Debug\net6.0\07SumOfDigitsCalculator.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\07SumOfDigitsCalculator\bin\Debug\net6.0\07SumOfDigitsCalculator.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\07SumOfDigitsCalculator\bin\Debug\net6.0\07SumOfDigitsCalculator.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\07SumOfDigitsCalculator\bin\Debug\net6.0\07SumOfDigitsCalculator.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\07SumOfDigitsCalculator\obj\Debug\net6.0\07SumOfDigitsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\07SumOfDigitsCalculator\obj\Debug\net6.0\07SumOfDigitsCalculator.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\07SumOfDigitsCalculator\obj\Debug\net6.0\07SumOfDigitsCalculator.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\07SumOfDigitsCalculator\obj\Debug\net6.0\07SumOfDigitsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\07SumOfDigitsCalculator\obj\Debug\net6.0\07SumOfDigitsCalculator.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\07SumOfDigitsCalculator\obj\Debug\net6.0\refint\07SumOfDigitsCalculator.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\07SumOfDigitsCalculator\obj\Debug\net6.0\07SumOfDigitsCalculator.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\07SumOfDigitsCalculator\obj\Debug\net6.0\07SumOfDigitsCalculator.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NestedLoops\07SumOfDigitsCalculator\obj\Debug\net6.0\ref\07SumOfDigitsCalculator.dll
