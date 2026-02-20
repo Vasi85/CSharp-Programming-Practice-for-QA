@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\02FirstNNumbersSum\bin\Debug\net6.0\02FirstNNumbersSum.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\02FirstNNumbersSum\bin\Debug\net6.0\02FirstNNumbersSum.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\02FirstNNumbersSum\bin\Debug\net6.0\02FirstNNumbersSum.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\02FirstNNumbersSum\bin\Debug\net6.0\02FirstNNumbersSum.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\02FirstNNumbersSum\bin\Debug\net6.0\02FirstNNumbersSum.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\02FirstNNumbersSum\obj\Debug\net6.0\02FirstNNumbersSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\02FirstNNumbersSum\obj\Debug\net6.0\02FirstNNumbersSum.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\02FirstNNumbersSum\obj\Debug\net6.0\02FirstNNumbersSum.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\02FirstNNumbersSum\obj\Debug\net6.0\02FirstNNumbersSum.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\02FirstNNumbersSum\obj\Debug\net6.0\02FirstNNumbersSum.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\02FirstNNumbersSum\obj\Debug\net6.0\refint\02FirstNNumbersSum.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\02FirstNNumbersSum\obj\Debug\net6.0\02FirstNNumbersSum.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\02FirstNNumbersSum\obj\Debug\net6.0\02FirstNNumbersSum.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ForLoop\02FirstNNumbersSum\obj\Debug\net6.0\ref\02FirstNNumbersSum.dll
