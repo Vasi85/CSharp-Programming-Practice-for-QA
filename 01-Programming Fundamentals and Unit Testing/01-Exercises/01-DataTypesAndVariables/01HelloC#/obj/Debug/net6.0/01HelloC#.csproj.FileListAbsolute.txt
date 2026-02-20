@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\DataTypesAndVariables\bin\Debug\net6.0\01HelloC#.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\DataTypesAndVariables\bin\Debug\net6.0\01HelloC#.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\DataTypesAndVariables\bin\Debug\net6.0\01HelloC#.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\DataTypesAndVariables\bin\Debug\net6.0\01HelloC#.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\DataTypesAndVariables\bin\Debug\net6.0\01HelloC#.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\DataTypesAndVariables\obj\Debug\net6.0\01HelloC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\DataTypesAndVariables\obj\Debug\net6.0\01HelloC#.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\DataTypesAndVariables\obj\Debug\net6.0\01HelloC#.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\DataTypesAndVariables\obj\Debug\net6.0\01HelloC#.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\DataTypesAndVariables\obj\Debug\net6.0\01HelloC#.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\DataTypesAndVariables\obj\Debug\net6.0\refint\01HelloC#.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\DataTypesAndVariables\obj\Debug\net6.0\01HelloC#.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\DataTypesAndVariables\obj\Debug\net6.0\01HelloC#.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\DataTypesAndVariables\obj\Debug\net6.0\ref\01HelloC#.dll

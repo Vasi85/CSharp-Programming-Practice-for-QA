@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\03NameAndExpression\bin\Debug\net6.0\03NameAndExpression.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\03NameAndExpression\bin\Debug\net6.0\03NameAndExpression.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\03NameAndExpression\bin\Debug\net6.0\03NameAndExpression.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\03NameAndExpression\bin\Debug\net6.0\03NameAndExpression.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\03NameAndExpression\bin\Debug\net6.0\03NameAndExpression.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\03NameAndExpression\obj\Debug\net6.0\03NameAndExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\03NameAndExpression\obj\Debug\net6.0\03NameAndExpression.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\03NameAndExpression\obj\Debug\net6.0\03NameAndExpression.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\03NameAndExpression\obj\Debug\net6.0\03NameAndExpression.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\03NameAndExpression\obj\Debug\net6.0\03NameAndExpression.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\03NameAndExpression\obj\Debug\net6.0\refint\03NameAndExpression.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\03NameAndExpression\obj\Debug\net6.0\03NameAndExpression.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\03NameAndExpression\obj\Debug\net6.0\03NameAndExpression.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\ProgrammingFundamentalsAndUnitTesting\03NameAndExpression\obj\Debug\net6.0\ref\03NameAndExpression.dll
