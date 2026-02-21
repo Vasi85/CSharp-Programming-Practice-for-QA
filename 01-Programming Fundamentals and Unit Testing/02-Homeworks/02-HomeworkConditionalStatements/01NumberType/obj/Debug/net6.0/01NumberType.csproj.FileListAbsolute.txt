@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\HomeworkConditionalStatements\01NumberType\bin\Debug\net6.0\01NumberType.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\HomeworkConditionalStatements\01NumberType\bin\Debug\net6.0\01NumberType.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\HomeworkConditionalStatements\01NumberType\bin\Debug\net6.0\01NumberType.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\HomeworkConditionalStatements\01NumberType\bin\Debug\net6.0\01NumberType.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\HomeworkConditionalStatements\01NumberType\bin\Debug\net6.0\01NumberType.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\HomeworkConditionalStatements\01NumberType\obj\Debug\net6.0\01NumberType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\HomeworkConditionalStatements\01NumberType\obj\Debug\net6.0\01NumberType.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\HomeworkConditionalStatements\01NumberType\obj\Debug\net6.0\01NumberType.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\HomeworkConditionalStatements\01NumberType\obj\Debug\net6.0\01NumberType.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\HomeworkConditionalStatements\01NumberType\obj\Debug\net6.0\01NumberType.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\HomeworkConditionalStatements\01NumberType\obj\Debug\net6.0\refint\01NumberType.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\HomeworkConditionalStatements\01NumberType\obj\Debug\net6.0\01NumberType.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\HomeworkConditionalStatements\01NumberType\obj\Debug\net6.0\01NumberType.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\HomeworkConditionalStatements\01NumberType\obj\Debug\net6.0\ref\01NumberType.dll
