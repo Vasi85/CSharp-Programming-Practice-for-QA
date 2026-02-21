@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\05BasketballEquipment\05BasketballEquipment\bin\Debug\net6.0\05BasketballEquipment.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\05BasketballEquipment\05BasketballEquipment\bin\Debug\net6.0\05BasketballEquipment.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\05BasketballEquipment\05BasketballEquipment\bin\Debug\net6.0\05BasketballEquipment.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\05BasketballEquipment\05BasketballEquipment\bin\Debug\net6.0\05BasketballEquipment.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\05BasketballEquipment\05BasketballEquipment\bin\Debug\net6.0\05BasketballEquipment.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\05BasketballEquipment\05BasketballEquipment\obj\Debug\net6.0\05BasketballEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\05BasketballEquipment\05BasketballEquipment\obj\Debug\net6.0\05BasketballEquipment.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\05BasketballEquipment\05BasketballEquipment\obj\Debug\net6.0\05BasketballEquipment.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\05BasketballEquipment\05BasketballEquipment\obj\Debug\net6.0\05BasketballEquipment.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\05BasketballEquipment\05BasketballEquipment\obj\Debug\net6.0\05BasketballEquipment.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\05BasketballEquipment\05BasketballEquipment\obj\Debug\net6.0\refint\05BasketballEquipment.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\05BasketballEquipment\05BasketballEquipment\obj\Debug\net6.0\05BasketballEquipment.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\05BasketballEquipment\05BasketballEquipment\obj\Debug\net6.0\05BasketballEquipment.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\05BasketballEquipment\05BasketballEquipment\obj\Debug\net6.0\ref\05BasketballEquipment.dll

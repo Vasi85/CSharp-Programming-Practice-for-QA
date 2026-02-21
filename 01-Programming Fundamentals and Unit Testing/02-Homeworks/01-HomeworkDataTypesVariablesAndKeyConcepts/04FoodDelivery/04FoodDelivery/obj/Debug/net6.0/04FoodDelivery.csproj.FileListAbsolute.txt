@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04FoodDelivery\04FoodDelivery\bin\Debug\net6.0\04FoodDelivery.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04FoodDelivery\04FoodDelivery\bin\Debug\net6.0\04FoodDelivery.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04FoodDelivery\04FoodDelivery\bin\Debug\net6.0\04FoodDelivery.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04FoodDelivery\04FoodDelivery\bin\Debug\net6.0\04FoodDelivery.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04FoodDelivery\04FoodDelivery\bin\Debug\net6.0\04FoodDelivery.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04FoodDelivery\04FoodDelivery\obj\Debug\net6.0\04FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04FoodDelivery\04FoodDelivery\obj\Debug\net6.0\04FoodDelivery.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04FoodDelivery\04FoodDelivery\obj\Debug\net6.0\04FoodDelivery.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04FoodDelivery\04FoodDelivery\obj\Debug\net6.0\04FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04FoodDelivery\04FoodDelivery\obj\Debug\net6.0\04FoodDelivery.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04FoodDelivery\04FoodDelivery\obj\Debug\net6.0\refint\04FoodDelivery.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04FoodDelivery\04FoodDelivery\obj\Debug\net6.0\04FoodDelivery.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04FoodDelivery\04FoodDelivery\obj\Debug\net6.0\04FoodDelivery.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\04FoodDelivery\04FoodDelivery\obj\Debug\net6.0\ref\04FoodDelivery.dll
