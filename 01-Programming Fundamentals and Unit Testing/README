@@ -1,0 +1,64 @@
+# C# Programming Practice for QA
+
+This repository contains C# programming exercises completed during QA training at SoftUni.
+The goal is to build strong programming fundamentals and unit testing skills required for QA Automation roles.
+
+---
+
+## 📂 Repository Structure
+
+### 01 – Programming Fundamentals and Unit Testing
+
+Includes:
+
+* Core C# programming exercises
+* Algorithms and problem-solving tasks
+* Console applications
+* Unit testing practice
+* Exam preparation tasks
+
+Focus areas:
+
+* Data types and variables
+* Conditional statements
+* Loops and collections
+* Methods and modular code
+* Writing testable logic
+* Creating unit tests
+
+---
+
+## 🧪 Unit Testing
+
+Some tasks include automated tests demonstrating:
+
+* Test case design
+* Validation of expected results
+* Edge case handling
+* Code reliability verification
+
+---
+
+## 🛠 Technologies
+
+* **C#**
+* **.NET**
+* **Visual Studio**
+* **Unit Testing Frameworks** (NUnit / MSTest / xUnit depending on the task)
+
+---
+
+## 🎯 Purpose
+
+This repository demonstrates:
+
+* Programming knowledge relevant for QA engineers
+* Understanding of how developers structure code
+* Ability to read, write, and test C# applications
+* Preparation for QA Automation and technical interviews
+
+---
+
+## 👩‍💻 Author
+
+Created as part of QA learning and portfolio development.
