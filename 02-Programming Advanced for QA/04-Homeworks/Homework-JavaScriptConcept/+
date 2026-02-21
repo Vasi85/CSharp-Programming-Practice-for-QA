@@ -1,0 +1,12 @@
+function sum(number) {
+    let sum = 0;
+
+    while (number > 0) {
+        let lastDigigt = number % 10;
+        sum += lastDigigt;
+        number = Math.floor(number / 10);
+    }
+    console.log(sum)
+}
+
+sum(245678)
