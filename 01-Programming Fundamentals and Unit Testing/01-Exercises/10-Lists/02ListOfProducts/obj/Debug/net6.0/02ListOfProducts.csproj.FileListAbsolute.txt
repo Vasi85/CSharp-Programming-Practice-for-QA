@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\02ListOfProducts\bin\Debug\net6.0\02ListOfProducts.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\02ListOfProducts\bin\Debug\net6.0\02ListOfProducts.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\02ListOfProducts\bin\Debug\net6.0\02ListOfProducts.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\02ListOfProducts\bin\Debug\net6.0\02ListOfProducts.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\02ListOfProducts\bin\Debug\net6.0\02ListOfProducts.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\02ListOfProducts\obj\Debug\net6.0\02ListOfProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\02ListOfProducts\obj\Debug\net6.0\02ListOfProducts.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\02ListOfProducts\obj\Debug\net6.0\02ListOfProducts.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\02ListOfProducts\obj\Debug\net6.0\02ListOfProducts.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\02ListOfProducts\obj\Debug\net6.0\02ListOfProducts.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\02ListOfProducts\obj\Debug\net6.0\refint\02ListOfProducts.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\02ListOfProducts\obj\Debug\net6.0\02ListOfProducts.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\02ListOfProducts\obj\Debug\net6.0\02ListOfProducts.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\02ListOfProducts\obj\Debug\net6.0\ref\02ListOfProducts.dll

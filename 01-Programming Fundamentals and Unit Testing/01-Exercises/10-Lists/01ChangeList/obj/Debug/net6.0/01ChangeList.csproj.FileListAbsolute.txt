@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\01ChangeList\obj\Debug\net6.0\01ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\01ChangeList\obj\Debug\net6.0\01ChangeList.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\01ChangeList\obj\Debug\net6.0\01ChangeList.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\01ChangeList\obj\Debug\net6.0\01ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\01ChangeList\bin\Debug\net6.0\01ChangeList.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\01ChangeList\bin\Debug\net6.0\01ChangeList.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\01ChangeList\bin\Debug\net6.0\01ChangeList.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\01ChangeList\bin\Debug\net6.0\01ChangeList.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\01ChangeList\bin\Debug\net6.0\01ChangeList.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\01ChangeList\obj\Debug\net6.0\01ChangeList.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\01ChangeList\obj\Debug\net6.0\refint\01ChangeList.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\01ChangeList\obj\Debug\net6.0\01ChangeList.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\01ChangeList\obj\Debug\net6.0\01ChangeList.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\01ChangeList\obj\Debug\net6.0\ref\01ChangeList.dll

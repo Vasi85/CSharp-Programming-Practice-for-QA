@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\03RemoveNegativesAndReverse\bin\Debug\net6.0\03RemoveNegativesAndReverse.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\03RemoveNegativesAndReverse\bin\Debug\net6.0\03RemoveNegativesAndReverse.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\03RemoveNegativesAndReverse\bin\Debug\net6.0\03RemoveNegativesAndReverse.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\03RemoveNegativesAndReverse\bin\Debug\net6.0\03RemoveNegativesAndReverse.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\03RemoveNegativesAndReverse\bin\Debug\net6.0\03RemoveNegativesAndReverse.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\03RemoveNegativesAndReverse\obj\Debug\net6.0\03RemoveNegativesAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\03RemoveNegativesAndReverse\obj\Debug\net6.0\03RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\03RemoveNegativesAndReverse\obj\Debug\net6.0\03RemoveNegativesAndReverse.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\03RemoveNegativesAndReverse\obj\Debug\net6.0\03RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\03RemoveNegativesAndReverse\obj\Debug\net6.0\03RemoveNegativesAndReverse.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\03RemoveNegativesAndReverse\obj\Debug\net6.0\refint\03RemoveNegativesAndReverse.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\03RemoveNegativesAndReverse\obj\Debug\net6.0\03RemoveNegativesAndReverse.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\03RemoveNegativesAndReverse\obj\Debug\net6.0\03RemoveNegativesAndReverse.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\Lists\03RemoveNegativesAndReverse\obj\Debug\net6.0\ref\03RemoveNegativesAndReverse.dll
