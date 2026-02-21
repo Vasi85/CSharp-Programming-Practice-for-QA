@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\02HouseParty\bin\Debug\net6.0\02HouseParty.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\02HouseParty\bin\Debug\net6.0\02HouseParty.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\02HouseParty\bin\Debug\net6.0\02HouseParty.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\02HouseParty\bin\Debug\net6.0\02HouseParty.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\02HouseParty\bin\Debug\net6.0\02HouseParty.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\02HouseParty\obj\Debug\net6.0\02HouseParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\02HouseParty\obj\Debug\net6.0\02HouseParty.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\02HouseParty\obj\Debug\net6.0\02HouseParty.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\02HouseParty\obj\Debug\net6.0\02HouseParty.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\02HouseParty\obj\Debug\net6.0\02HouseParty.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\02HouseParty\obj\Debug\net6.0\refint\02HouseParty.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\02HouseParty\obj\Debug\net6.0\02HouseParty.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\02HouseParty\obj\Debug\net6.0\02HouseParty.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\02HouseParty\obj\Debug\net6.0\ref\02HouseParty.dll
