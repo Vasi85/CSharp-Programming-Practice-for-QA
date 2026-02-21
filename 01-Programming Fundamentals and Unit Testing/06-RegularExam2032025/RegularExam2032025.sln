@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01WaterConsumption", "01WaterConsumption\01WaterConsumption.csproj", "{920B360C-8F4E-4AC6-8171-7591137F4564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02AverageAndTotalRainfall", "02AverageAndTotalRainfall\02AverageAndTotalRainfall.csproj", "{51F80B8C-891D-4012-8CF6-A0FD79247516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{920B360C-8F4E-4AC6-8171-7591137F4564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{920B360C-8F4E-4AC6-8171-7591137F4564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{920B360C-8F4E-4AC6-8171-7591137F4564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{920B360C-8F4E-4AC6-8171-7591137F4564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51F80B8C-891D-4012-8CF6-A0FD79247516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F80B8C-891D-4012-8CF6-A0FD79247516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F80B8C-891D-4012-8CF6-A0FD79247516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F80B8C-891D-4012-8CF6-A0FD79247516}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46C57331-63BB-4C56-AD6D-7E631B7B9CD9}
+	EndGlobalSection
+EndGlobal

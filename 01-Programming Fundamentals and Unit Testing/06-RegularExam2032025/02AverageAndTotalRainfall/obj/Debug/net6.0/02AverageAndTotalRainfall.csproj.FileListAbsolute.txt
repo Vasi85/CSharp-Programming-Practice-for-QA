@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\02AverageAndTotalRainfall\bin\Debug\net6.0\02AverageAndTotalRainfall.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\02AverageAndTotalRainfall\bin\Debug\net6.0\02AverageAndTotalRainfall.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\02AverageAndTotalRainfall\bin\Debug\net6.0\02AverageAndTotalRainfall.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\02AverageAndTotalRainfall\bin\Debug\net6.0\02AverageAndTotalRainfall.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\02AverageAndTotalRainfall\bin\Debug\net6.0\02AverageAndTotalRainfall.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\02AverageAndTotalRainfall\obj\Debug\net6.0\02AverageAndTotalRainfall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\02AverageAndTotalRainfall\obj\Debug\net6.0\02AverageAndTotalRainfall.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\02AverageAndTotalRainfall\obj\Debug\net6.0\02AverageAndTotalRainfall.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\02AverageAndTotalRainfall\obj\Debug\net6.0\02AverageAndTotalRainfall.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\02AverageAndTotalRainfall\obj\Debug\net6.0\02AverageAndTotalRainfall.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\02AverageAndTotalRainfall\obj\Debug\net6.0\refint\02AverageAndTotalRainfall.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\02AverageAndTotalRainfall\obj\Debug\net6.0\02AverageAndTotalRainfall.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\02AverageAndTotalRainfall\obj\Debug\net6.0\02AverageAndTotalRainfall.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\02AverageAndTotalRainfall\obj\Debug\net6.0\ref\02AverageAndTotalRainfall.dll

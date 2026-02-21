@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\01WaterConsumption\bin\Debug\net6.0\01WaterConsumption.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\01WaterConsumption\bin\Debug\net6.0\01WaterConsumption.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\01WaterConsumption\bin\Debug\net6.0\01WaterConsumption.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\01WaterConsumption\bin\Debug\net6.0\01WaterConsumption.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\01WaterConsumption\bin\Debug\net6.0\01WaterConsumption.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\01WaterConsumption\obj\Debug\net6.0\01WaterConsumption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\01WaterConsumption\obj\Debug\net6.0\01WaterConsumption.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\01WaterConsumption\obj\Debug\net6.0\01WaterConsumption.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\01WaterConsumption\obj\Debug\net6.0\01WaterConsumption.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\01WaterConsumption\obj\Debug\net6.0\01WaterConsumption.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\01WaterConsumption\obj\Debug\net6.0\refint\01WaterConsumption.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\01WaterConsumption\obj\Debug\net6.0\01WaterConsumption.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\01WaterConsumption\obj\Debug\net6.0\01WaterConsumption.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\RegularExam2032025\01WaterConsumption\obj\Debug\net6.0\ref\01WaterConsumption.dll
