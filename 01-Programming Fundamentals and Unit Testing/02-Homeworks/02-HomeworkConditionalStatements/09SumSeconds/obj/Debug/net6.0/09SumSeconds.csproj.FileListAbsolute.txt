@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\09SumSeconds\bin\Debug\net6.0\09SumSeconds.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\09SumSeconds\bin\Debug\net6.0\09SumSeconds.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\09SumSeconds\bin\Debug\net6.0\09SumSeconds.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\09SumSeconds\bin\Debug\net6.0\09SumSeconds.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\09SumSeconds\bin\Debug\net6.0\09SumSeconds.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\09SumSeconds\obj\Debug\net6.0\09SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\09SumSeconds\obj\Debug\net6.0\09SumSeconds.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\09SumSeconds\obj\Debug\net6.0\09SumSeconds.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\09SumSeconds\obj\Debug\net6.0\09SumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\09SumSeconds\obj\Debug\net6.0\09SumSeconds.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\09SumSeconds\obj\Debug\net6.0\refint\09SumSeconds.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\09SumSeconds\obj\Debug\net6.0\09SumSeconds.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\09SumSeconds\obj\Debug\net6.0\09SumSeconds.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\09SumSeconds\obj\Debug\net6.0\ref\09SumSeconds.dll

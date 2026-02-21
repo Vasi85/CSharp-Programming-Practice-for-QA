@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\10SummerOutfit\bin\Debug\net6.0\10SummerOutfit.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\10SummerOutfit\bin\Debug\net6.0\10SummerOutfit.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\10SummerOutfit\bin\Debug\net6.0\10SummerOutfit.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\10SummerOutfit\bin\Debug\net6.0\10SummerOutfit.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\10SummerOutfit\bin\Debug\net6.0\10SummerOutfit.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\10SummerOutfit\obj\Debug\net6.0\10SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\10SummerOutfit\obj\Debug\net6.0\10SummerOutfit.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\10SummerOutfit\obj\Debug\net6.0\10SummerOutfit.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\10SummerOutfit\obj\Debug\net6.0\10SummerOutfit.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\10SummerOutfit\obj\Debug\net6.0\10SummerOutfit.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\10SummerOutfit\obj\Debug\net6.0\refint\10SummerOutfit.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\10SummerOutfit\obj\Debug\net6.0\10SummerOutfit.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\10SummerOutfit\obj\Debug\net6.0\10SummerOutfit.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\10SummerOutfit\obj\Debug\net6.0\ref\10SummerOutfit.dll
