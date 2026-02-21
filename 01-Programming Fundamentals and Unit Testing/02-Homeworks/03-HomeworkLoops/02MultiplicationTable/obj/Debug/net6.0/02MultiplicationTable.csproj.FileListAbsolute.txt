@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\02MultiplicationTable\bin\Debug\net6.0\02MultiplicationTable.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\02MultiplicationTable\bin\Debug\net6.0\02MultiplicationTable.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\02MultiplicationTable\bin\Debug\net6.0\02MultiplicationTable.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\02MultiplicationTable\bin\Debug\net6.0\02MultiplicationTable.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\02MultiplicationTable\bin\Debug\net6.0\02MultiplicationTable.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\02MultiplicationTable\obj\Debug\net6.0\02MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\02MultiplicationTable\obj\Debug\net6.0\02MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\02MultiplicationTable\obj\Debug\net6.0\02MultiplicationTable.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\02MultiplicationTable\obj\Debug\net6.0\02MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\02MultiplicationTable\obj\Debug\net6.0\02MultiplicationTable.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\02MultiplicationTable\obj\Debug\net6.0\refint\02MultiplicationTable.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\02MultiplicationTable\obj\Debug\net6.0\02MultiplicationTable.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\02MultiplicationTable\obj\Debug\net6.0\02MultiplicationTable.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\02MultiplicationTable\obj\Debug\net6.0\ref\02MultiplicationTable.dll

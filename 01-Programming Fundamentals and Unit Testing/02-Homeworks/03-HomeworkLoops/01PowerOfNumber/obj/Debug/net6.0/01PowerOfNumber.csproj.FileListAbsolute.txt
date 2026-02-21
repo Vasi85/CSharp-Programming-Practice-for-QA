@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\01PowerOfNumber\bin\Debug\net6.0\01PowerOfNumber.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\01PowerOfNumber\bin\Debug\net6.0\01PowerOfNumber.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\01PowerOfNumber\bin\Debug\net6.0\01PowerOfNumber.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\01PowerOfNumber\bin\Debug\net6.0\01PowerOfNumber.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\01PowerOfNumber\bin\Debug\net6.0\01PowerOfNumber.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\01PowerOfNumber\obj\Debug\net6.0\01PowerOfNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\01PowerOfNumber\obj\Debug\net6.0\01PowerOfNumber.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\01PowerOfNumber\obj\Debug\net6.0\01PowerOfNumber.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\01PowerOfNumber\obj\Debug\net6.0\01PowerOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\01PowerOfNumber\obj\Debug\net6.0\01PowerOfNumber.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\01PowerOfNumber\obj\Debug\net6.0\refint\01PowerOfNumber.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\01PowerOfNumber\obj\Debug\net6.0\01PowerOfNumber.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\01PowerOfNumber\obj\Debug\net6.0\01PowerOfNumber.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\01PowerOfNumber\obj\Debug\net6.0\ref\01PowerOfNumber.dll
