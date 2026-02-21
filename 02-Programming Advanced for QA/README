@@ -1,21 +1,35 @@
 # Programming Advanced for QA
 
-This folder contains selected exercises from the **Programming Advanced for QA** course.
+This folder contains selected C# exercises completed during the **Programming Advanced for QA** course at SoftUni.
 
-## Contents
+## 📂 Contents
 
-* Selected programming exercises
-* Homework examples
+* Programming exercises
+* Homework assignments
 * Exam preparation tasks
 * Final exam solution
 
-## Purpose
+## 🧠 Skills Demonstrated
 
-These tasks demonstrate:
+* Object-oriented programming (OOP) concepts
+* Code structure and reusability
+* Working with classes and methods
+* Reading, understanding, and debugging code
+* Problem-solving and algorithmic thinking
+* Preparation for QA Automation development tasks
 
-* problem-solving skills
-* understanding of object-oriented programming concepts
-* ability to read and analyze code
-* preparation for automation testing
+## 🛠 Technologies
 
-Part of my Software QA learning journey.
+* **C#**
+* **.NET**
+* **Visual Studio**
+
+## 🎯 Purpose
+
+These tasks showcase programming knowledge beyond the basics and demonstrate readiness to:
+
+* understand developer codebases
+* write automation-friendly logic
+* support QA Automation workflows
+
+Part of my Software QA learning journey and portfolio.
