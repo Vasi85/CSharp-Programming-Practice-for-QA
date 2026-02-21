@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\05BombNumbers\bin\Debug\net6.0\05BombNumbers.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\05BombNumbers\bin\Debug\net6.0\05BombNumbers.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\05BombNumbers\bin\Debug\net6.0\05BombNumbers.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\05BombNumbers\bin\Debug\net6.0\05BombNumbers.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\05BombNumbers\bin\Debug\net6.0\05BombNumbers.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\05BombNumbers\obj\Debug\net6.0\05BombNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\05BombNumbers\obj\Debug\net6.0\05BombNumbers.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\05BombNumbers\obj\Debug\net6.0\05BombNumbers.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\05BombNumbers\obj\Debug\net6.0\05BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\05BombNumbers\obj\Debug\net6.0\05BombNumbers.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\05BombNumbers\obj\Debug\net6.0\refint\05BombNumbers.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\05BombNumbers\obj\Debug\net6.0\05BombNumbers.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\05BombNumbers\obj\Debug\net6.0\05BombNumbers.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\05BombNumbers\obj\Debug\net6.0\ref\05BombNumbers.dll

@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\04ListManipulationBasics\bin\Debug\net6.0\04ListManipulationBasics.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\04ListManipulationBasics\bin\Debug\net6.0\04ListManipulationBasics.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\04ListManipulationBasics\bin\Debug\net6.0\04ListManipulationBasics.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\04ListManipulationBasics\bin\Debug\net6.0\04ListManipulationBasics.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\04ListManipulationBasics\bin\Debug\net6.0\04ListManipulationBasics.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\04ListManipulationBasics\obj\Debug\net6.0\04ListManipulationBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\04ListManipulationBasics\obj\Debug\net6.0\04ListManipulationBasics.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\04ListManipulationBasics\obj\Debug\net6.0\04ListManipulationBasics.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\04ListManipulationBasics\obj\Debug\net6.0\04ListManipulationBasics.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\04ListManipulationBasics\obj\Debug\net6.0\04ListManipulationBasics.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\04ListManipulationBasics\obj\Debug\net6.0\refint\04ListManipulationBasics.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\04ListManipulationBasics\obj\Debug\net6.0\04ListManipulationBasics.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\04ListManipulationBasics\obj\Debug\net6.0\04ListManipulationBasics.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\NimeworkLists\04ListManipulationBasics\obj\Debug\net6.0\ref\04ListManipulationBasics.dll
