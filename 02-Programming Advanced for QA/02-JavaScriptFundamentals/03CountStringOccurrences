@@ -1,6 +1,0 @@
-function count(string, word) {
-    let counter = string.split(' ').filter(w => w === word)
-    console.log(counter.length)
-}
-
-count('This is a word and it also is a sentence', 'is')
