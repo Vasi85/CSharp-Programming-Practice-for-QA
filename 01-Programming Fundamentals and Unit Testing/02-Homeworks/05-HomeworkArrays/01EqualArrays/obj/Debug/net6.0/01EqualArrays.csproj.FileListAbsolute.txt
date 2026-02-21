@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\01EqualArrays\bin\Debug\net6.0\01EqualArrays.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\01EqualArrays\bin\Debug\net6.0\01EqualArrays.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\01EqualArrays\bin\Debug\net6.0\01EqualArrays.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\01EqualArrays\bin\Debug\net6.0\01EqualArrays.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\01EqualArrays\bin\Debug\net6.0\01EqualArrays.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\01EqualArrays\obj\Debug\net6.0\01EqualArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\01EqualArrays\obj\Debug\net6.0\01EqualArrays.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\01EqualArrays\obj\Debug\net6.0\01EqualArrays.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\01EqualArrays\obj\Debug\net6.0\01EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\01EqualArrays\obj\Debug\net6.0\01EqualArrays.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\01EqualArrays\obj\Debug\net6.0\refint\01EqualArrays.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\01EqualArrays\obj\Debug\net6.0\01EqualArrays.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\01EqualArrays\obj\Debug\net6.0\01EqualArrays.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\01EqualArrays\obj\Debug\net6.0\ref\01EqualArrays.dll

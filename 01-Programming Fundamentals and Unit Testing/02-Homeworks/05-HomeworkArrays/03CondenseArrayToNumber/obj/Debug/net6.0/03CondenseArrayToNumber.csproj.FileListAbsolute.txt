@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\03CondenseArrayToNumber\bin\Debug\net6.0\03CondenseArrayToNumber.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\03CondenseArrayToNumber\bin\Debug\net6.0\03CondenseArrayToNumber.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\03CondenseArrayToNumber\bin\Debug\net6.0\03CondenseArrayToNumber.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\03CondenseArrayToNumber\bin\Debug\net6.0\03CondenseArrayToNumber.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\03CondenseArrayToNumber\bin\Debug\net6.0\03CondenseArrayToNumber.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\03CondenseArrayToNumber\obj\Debug\net6.0\03CondenseArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\03CondenseArrayToNumber\obj\Debug\net6.0\03CondenseArrayToNumber.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\03CondenseArrayToNumber\obj\Debug\net6.0\03CondenseArrayToNumber.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\03CondenseArrayToNumber\obj\Debug\net6.0\03CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\03CondenseArrayToNumber\obj\Debug\net6.0\03CondenseArrayToNumber.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\03CondenseArrayToNumber\obj\Debug\net6.0\refint\03CondenseArrayToNumber.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\03CondenseArrayToNumber\obj\Debug\net6.0\03CondenseArrayToNumber.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\03CondenseArrayToNumber\obj\Debug\net6.0\03CondenseArrayToNumber.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\03CondenseArrayToNumber\obj\Debug\net6.0\ref\03CondenseArrayToNumber.dll
