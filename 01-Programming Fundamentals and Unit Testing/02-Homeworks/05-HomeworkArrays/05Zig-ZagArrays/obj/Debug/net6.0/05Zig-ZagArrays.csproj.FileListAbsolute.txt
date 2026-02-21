@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\05Zig-ZagArrays\bin\Debug\net6.0\05Zig-ZagArrays.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\05Zig-ZagArrays\bin\Debug\net6.0\05Zig-ZagArrays.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\05Zig-ZagArrays\bin\Debug\net6.0\05Zig-ZagArrays.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\05Zig-ZagArrays\bin\Debug\net6.0\05Zig-ZagArrays.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\05Zig-ZagArrays\bin\Debug\net6.0\05Zig-ZagArrays.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\05Zig-ZagArrays\obj\Debug\net6.0\05Zig-ZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\05Zig-ZagArrays\obj\Debug\net6.0\05Zig-ZagArrays.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\05Zig-ZagArrays\obj\Debug\net6.0\05Zig-ZagArrays.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\05Zig-ZagArrays\obj\Debug\net6.0\05Zig-ZagArrays.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\05Zig-ZagArrays\obj\Debug\net6.0\05Zig-ZagArrays.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\05Zig-ZagArrays\obj\Debug\net6.0\refint\05Zig-ZagArrays.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\05Zig-ZagArrays\obj\Debug\net6.0\05Zig-ZagArrays.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\05Zig-ZagArrays\obj\Debug\net6.0\05Zig-ZagArrays.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\05Zig-ZagArrays\obj\Debug\net6.0\ref\05Zig-ZagArrays.dll

@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\04MagicSum\bin\Debug\net6.0\04MagicSum.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\04MagicSum\bin\Debug\net6.0\04MagicSum.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\04MagicSum\bin\Debug\net6.0\04MagicSum.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\04MagicSum\bin\Debug\net6.0\04MagicSum.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\04MagicSum\bin\Debug\net6.0\04MagicSum.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\04MagicSum\obj\Debug\net6.0\04MagicSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\04MagicSum\obj\Debug\net6.0\04MagicSum.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\04MagicSum\obj\Debug\net6.0\04MagicSum.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\04MagicSum\obj\Debug\net6.0\04MagicSum.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\04MagicSum\obj\Debug\net6.0\04MagicSum.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\04MagicSum\obj\Debug\net6.0\refint\04MagicSum.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\04MagicSum\obj\Debug\net6.0\04MagicSum.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\04MagicSum\obj\Debug\net6.0\04MagicSum.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\04MagicSum\obj\Debug\net6.0\ref\04MagicSum.dll

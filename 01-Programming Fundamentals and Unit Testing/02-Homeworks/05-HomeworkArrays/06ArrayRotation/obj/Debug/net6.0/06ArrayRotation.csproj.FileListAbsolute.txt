@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\06ArrayRotation\bin\Debug\net6.0\06ArrayRotation.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\06ArrayRotation\bin\Debug\net6.0\06ArrayRotation.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\06ArrayRotation\bin\Debug\net6.0\06ArrayRotation.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\06ArrayRotation\bin\Debug\net6.0\06ArrayRotation.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\06ArrayRotation\bin\Debug\net6.0\06ArrayRotation.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\06ArrayRotation\obj\Debug\net6.0\06ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\06ArrayRotation\obj\Debug\net6.0\06ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\06ArrayRotation\obj\Debug\net6.0\06ArrayRotation.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\06ArrayRotation\obj\Debug\net6.0\06ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\06ArrayRotation\obj\Debug\net6.0\06ArrayRotation.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\06ArrayRotation\obj\Debug\net6.0\refint\06ArrayRotation.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\06ArrayRotation\obj\Debug\net6.0\06ArrayRotation.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\06ArrayRotation\obj\Debug\net6.0\06ArrayRotation.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkArrays\06ArrayRotation\obj\Debug\net6.0\ref\06ArrayRotation.dll
