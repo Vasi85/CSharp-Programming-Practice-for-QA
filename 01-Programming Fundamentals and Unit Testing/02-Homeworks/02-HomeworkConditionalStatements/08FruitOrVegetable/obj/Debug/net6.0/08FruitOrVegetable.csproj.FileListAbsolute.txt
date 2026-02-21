@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\08FruitOrVegetable\bin\Debug\net6.0\08FruitOrVegetable.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\08FruitOrVegetable\bin\Debug\net6.0\08FruitOrVegetable.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\08FruitOrVegetable\bin\Debug\net6.0\08FruitOrVegetable.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\08FruitOrVegetable\bin\Debug\net6.0\08FruitOrVegetable.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\08FruitOrVegetable\bin\Debug\net6.0\08FruitOrVegetable.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\08FruitOrVegetable\obj\Debug\net6.0\08FruitOrVegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\08FruitOrVegetable\obj\Debug\net6.0\08FruitOrVegetable.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\08FruitOrVegetable\obj\Debug\net6.0\08FruitOrVegetable.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\08FruitOrVegetable\obj\Debug\net6.0\08FruitOrVegetable.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\08FruitOrVegetable\obj\Debug\net6.0\08FruitOrVegetable.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\08FruitOrVegetable\obj\Debug\net6.0\refint\08FruitOrVegetable.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\08FruitOrVegetable\obj\Debug\net6.0\08FruitOrVegetable.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\08FruitOrVegetable\obj\Debug\net6.0\08FruitOrVegetable.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\08FruitOrVegetable\obj\Debug\net6.0\ref\08FruitOrVegetable.dll

@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\06ProductOfThreeNumbers\bin\Debug\net6.0\06ProductOfThreeNumbers.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\06ProductOfThreeNumbers\bin\Debug\net6.0\06ProductOfThreeNumbers.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\06ProductOfThreeNumbers\bin\Debug\net6.0\06ProductOfThreeNumbers.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\06ProductOfThreeNumbers\bin\Debug\net6.0\06ProductOfThreeNumbers.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\06ProductOfThreeNumbers\bin\Debug\net6.0\06ProductOfThreeNumbers.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\06ProductOfThreeNumbers\obj\Debug\net6.0\06ProductOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\06ProductOfThreeNumbers\obj\Debug\net6.0\06ProductOfThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\06ProductOfThreeNumbers\obj\Debug\net6.0\06ProductOfThreeNumbers.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\06ProductOfThreeNumbers\obj\Debug\net6.0\06ProductOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\06ProductOfThreeNumbers\obj\Debug\net6.0\06ProductOfThreeNumbers.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\06ProductOfThreeNumbers\obj\Debug\net6.0\refint\06ProductOfThreeNumbers.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\06ProductOfThreeNumbers\obj\Debug\net6.0\06ProductOfThreeNumbers.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\06ProductOfThreeNumbers\obj\Debug\net6.0\06ProductOfThreeNumbers.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\06ProductOfThreeNumbers\obj\Debug\net6.0\ref\06ProductOfThreeNumbers.dll
