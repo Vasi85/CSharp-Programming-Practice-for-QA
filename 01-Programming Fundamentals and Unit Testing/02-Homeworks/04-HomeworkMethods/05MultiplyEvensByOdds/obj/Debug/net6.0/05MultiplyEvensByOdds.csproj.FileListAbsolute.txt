@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\05MultiplyEvensByOdds\bin\Debug\net6.0\05MultiplyEvensByOdds.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\05MultiplyEvensByOdds\bin\Debug\net6.0\05MultiplyEvensByOdds.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\05MultiplyEvensByOdds\bin\Debug\net6.0\05MultiplyEvensByOdds.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\05MultiplyEvensByOdds\bin\Debug\net6.0\05MultiplyEvensByOdds.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\05MultiplyEvensByOdds\bin\Debug\net6.0\05MultiplyEvensByOdds.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\05MultiplyEvensByOdds\obj\Debug\net6.0\05MultiplyEvensByOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\05MultiplyEvensByOdds\obj\Debug\net6.0\05MultiplyEvensByOdds.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\05MultiplyEvensByOdds\obj\Debug\net6.0\05MultiplyEvensByOdds.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\05MultiplyEvensByOdds\obj\Debug\net6.0\05MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\05MultiplyEvensByOdds\obj\Debug\net6.0\05MultiplyEvensByOdds.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\05MultiplyEvensByOdds\obj\Debug\net6.0\refint\05MultiplyEvensByOdds.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\05MultiplyEvensByOdds\obj\Debug\net6.0\05MultiplyEvensByOdds.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\05MultiplyEvensByOdds\obj\Debug\net6.0\05MultiplyEvensByOdds.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\05MultiplyEvensByOdds\obj\Debug\net6.0\ref\05MultiplyEvensByOdds.dll
