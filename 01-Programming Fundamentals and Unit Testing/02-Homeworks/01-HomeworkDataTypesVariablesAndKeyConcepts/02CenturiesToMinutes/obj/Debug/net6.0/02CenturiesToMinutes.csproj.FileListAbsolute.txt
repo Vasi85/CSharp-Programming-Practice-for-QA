@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02CenturiesToMinutes\bin\Debug\net6.0\02CenturiesToMinutes.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02CenturiesToMinutes\bin\Debug\net6.0\02CenturiesToMinutes.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02CenturiesToMinutes\bin\Debug\net6.0\02CenturiesToMinutes.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02CenturiesToMinutes\bin\Debug\net6.0\02CenturiesToMinutes.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02CenturiesToMinutes\bin\Debug\net6.0\02CenturiesToMinutes.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02CenturiesToMinutes\obj\Debug\net6.0\02CenturiesToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02CenturiesToMinutes\obj\Debug\net6.0\02CenturiesToMinutes.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02CenturiesToMinutes\obj\Debug\net6.0\02CenturiesToMinutes.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02CenturiesToMinutes\obj\Debug\net6.0\02CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02CenturiesToMinutes\obj\Debug\net6.0\02CenturiesToMinutes.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02CenturiesToMinutes\obj\Debug\net6.0\refint\02CenturiesToMinutes.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02CenturiesToMinutes\obj\Debug\net6.0\02CenturiesToMinutes.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02CenturiesToMinutes\obj\Debug\net6.0\02CenturiesToMinutes.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\02CenturiesToMinutes\obj\Debug\net6.0\ref\02CenturiesToMinutes.dll
