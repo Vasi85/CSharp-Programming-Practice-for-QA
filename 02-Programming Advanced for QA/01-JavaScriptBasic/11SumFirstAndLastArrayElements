@@ -1,0 +1,7 @@
+function sumElements(numbers) {
+    let firstElement = numbers[0];
+    let lastElement = numbers[numbers.length - 1];
+    console.log(parseFloat(firstElement) + parseFloat(lastElement))
+}
+
+sumElements([10, 17, 22, 33])

@@ -1,0 +1,7 @@
+function printNum(startNum, endNum) {
+    for (let i = 1; i <= 5; i++) {
+        console.log(i)
+    }
+}
+
+printNum(1)
