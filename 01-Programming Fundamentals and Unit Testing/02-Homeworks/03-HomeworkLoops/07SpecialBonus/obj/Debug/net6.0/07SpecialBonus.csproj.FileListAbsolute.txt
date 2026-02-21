@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\07SpecialBonus\bin\Debug\net6.0\07SpecialBonus.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\07SpecialBonus\bin\Debug\net6.0\07SpecialBonus.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\07SpecialBonus\bin\Debug\net6.0\07SpecialBonus.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\07SpecialBonus\bin\Debug\net6.0\07SpecialBonus.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\07SpecialBonus\bin\Debug\net6.0\07SpecialBonus.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\07SpecialBonus\obj\Debug\net6.0\07SpecialBonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\07SpecialBonus\obj\Debug\net6.0\07SpecialBonus.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\07SpecialBonus\obj\Debug\net6.0\07SpecialBonus.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\07SpecialBonus\obj\Debug\net6.0\07SpecialBonus.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\07SpecialBonus\obj\Debug\net6.0\07SpecialBonus.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\07SpecialBonus\obj\Debug\net6.0\refint\07SpecialBonus.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\07SpecialBonus\obj\Debug\net6.0\07SpecialBonus.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\07SpecialBonus\obj\Debug\net6.0\07SpecialBonus.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\07SpecialBonus\obj\Debug\net6.0\ref\07SpecialBonus.dll

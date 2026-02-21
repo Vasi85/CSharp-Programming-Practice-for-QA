@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\06SpecialNumber\bin\Debug\net6.0\06SpecialNumber.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\06SpecialNumber\bin\Debug\net6.0\06SpecialNumber.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\06SpecialNumber\bin\Debug\net6.0\06SpecialNumber.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\06SpecialNumber\bin\Debug\net6.0\06SpecialNumber.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\06SpecialNumber\bin\Debug\net6.0\06SpecialNumber.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\06SpecialNumber\obj\Debug\net6.0\06SpecialNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\06SpecialNumber\obj\Debug\net6.0\06SpecialNumber.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\06SpecialNumber\obj\Debug\net6.0\06SpecialNumber.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\06SpecialNumber\obj\Debug\net6.0\06SpecialNumber.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\06SpecialNumber\obj\Debug\net6.0\06SpecialNumber.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\06SpecialNumber\obj\Debug\net6.0\refint\06SpecialNumber.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\06SpecialNumber\obj\Debug\net6.0\06SpecialNumber.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\06SpecialNumber\obj\Debug\net6.0\06SpecialNumber.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\06SpecialNumber\obj\Debug\net6.0\ref\06SpecialNumber.dll

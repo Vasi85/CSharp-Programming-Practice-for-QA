@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\08AccountBalance\bin\Debug\net6.0\08AccountBalance.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\08AccountBalance\bin\Debug\net6.0\08AccountBalance.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\08AccountBalance\bin\Debug\net6.0\08AccountBalance.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\08AccountBalance\bin\Debug\net6.0\08AccountBalance.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\08AccountBalance\bin\Debug\net6.0\08AccountBalance.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\08AccountBalance\obj\Debug\net6.0\08AccountBalance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\08AccountBalance\obj\Debug\net6.0\08AccountBalance.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\08AccountBalance\obj\Debug\net6.0\08AccountBalance.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\08AccountBalance\obj\Debug\net6.0\08AccountBalance.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\08AccountBalance\obj\Debug\net6.0\08AccountBalance.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\08AccountBalance\obj\Debug\net6.0\refint\08AccountBalance.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\08AccountBalance\obj\Debug\net6.0\08AccountBalance.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\08AccountBalance\obj\Debug\net6.0\08AccountBalance.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkLoops\08AccountBalance\obj\Debug\net6.0\ref\08AccountBalance.dll
