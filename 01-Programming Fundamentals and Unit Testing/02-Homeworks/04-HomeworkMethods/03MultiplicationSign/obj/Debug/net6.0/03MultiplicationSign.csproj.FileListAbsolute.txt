@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\03MultiplicationSign\bin\Debug\net6.0\03MultiplicationSign.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\03MultiplicationSign\bin\Debug\net6.0\03MultiplicationSign.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\03MultiplicationSign\bin\Debug\net6.0\03MultiplicationSign.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\03MultiplicationSign\bin\Debug\net6.0\03MultiplicationSign.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\03MultiplicationSign\bin\Debug\net6.0\03MultiplicationSign.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\03MultiplicationSign\obj\Debug\net6.0\03MultiplicationSign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\03MultiplicationSign\obj\Debug\net6.0\03MultiplicationSign.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\03MultiplicationSign\obj\Debug\net6.0\03MultiplicationSign.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\03MultiplicationSign\obj\Debug\net6.0\03MultiplicationSign.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\03MultiplicationSign\obj\Debug\net6.0\03MultiplicationSign.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\03MultiplicationSign\obj\Debug\net6.0\refint\03MultiplicationSign.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\03MultiplicationSign\obj\Debug\net6.0\03MultiplicationSign.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\03MultiplicationSign\obj\Debug\net6.0\03MultiplicationSign.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\03MultiplicationSign\obj\Debug\net6.0\ref\03MultiplicationSign.dll

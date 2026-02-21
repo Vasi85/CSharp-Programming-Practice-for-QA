@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\01VowelsCount\obj\Debug\net6.0\01VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\01VowelsCount\obj\Debug\net6.0\01VowelsCount.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\01VowelsCount\obj\Debug\net6.0\01VowelsCount.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\01VowelsCount\obj\Debug\net6.0\01VowelsCount.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\01VowelsCount\bin\Debug\net6.0\01VowelsCount.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\01VowelsCount\bin\Debug\net6.0\01VowelsCount.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\01VowelsCount\bin\Debug\net6.0\01VowelsCount.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\01VowelsCount\bin\Debug\net6.0\01VowelsCount.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\01VowelsCount\bin\Debug\net6.0\01VowelsCount.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\01VowelsCount\obj\Debug\net6.0\01VowelsCount.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\01VowelsCount\obj\Debug\net6.0\refint\01VowelsCount.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\01VowelsCount\obj\Debug\net6.0\01VowelsCount.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\01VowelsCount\obj\Debug\net6.0\01VowelsCount.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkMethods\01VowelsCount\obj\Debug\net6.0\ref\01VowelsCount.dll
