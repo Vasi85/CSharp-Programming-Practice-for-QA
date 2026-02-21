@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06Aquarium\06Aquarium\bin\Debug\net6.0\06Aquarium.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06Aquarium\06Aquarium\bin\Debug\net6.0\06Aquarium.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06Aquarium\06Aquarium\bin\Debug\net6.0\06Aquarium.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06Aquarium\06Aquarium\bin\Debug\net6.0\06Aquarium.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06Aquarium\06Aquarium\bin\Debug\net6.0\06Aquarium.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06Aquarium\06Aquarium\obj\Debug\net6.0\06Aquarium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06Aquarium\06Aquarium\obj\Debug\net6.0\06Aquarium.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06Aquarium\06Aquarium\obj\Debug\net6.0\06Aquarium.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06Aquarium\06Aquarium\obj\Debug\net6.0\06Aquarium.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06Aquarium\06Aquarium\obj\Debug\net6.0\06Aquarium.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06Aquarium\06Aquarium\obj\Debug\net6.0\refint\06Aquarium.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06Aquarium\06Aquarium\obj\Debug\net6.0\06Aquarium.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06Aquarium\06Aquarium\obj\Debug\net6.0\06Aquarium.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\06Aquarium\06Aquarium\obj\Debug\net6.0\ref\06Aquarium.dll
