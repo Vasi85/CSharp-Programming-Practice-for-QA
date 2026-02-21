@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\04NumberOperations\bin\Debug\net6.0\04NumberOperations.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\04NumberOperations\bin\Debug\net6.0\04NumberOperations.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\04NumberOperations\bin\Debug\net6.0\04NumberOperations.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\04NumberOperations\bin\Debug\net6.0\04NumberOperations.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\04NumberOperations\bin\Debug\net6.0\04NumberOperations.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\04NumberOperations\obj\Debug\net6.0\04NumberOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\04NumberOperations\obj\Debug\net6.0\04NumberOperations.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\04NumberOperations\obj\Debug\net6.0\04NumberOperations.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\04NumberOperations\obj\Debug\net6.0\04NumberOperations.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\04NumberOperations\obj\Debug\net6.0\04NumberOperations.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\04NumberOperations\obj\Debug\net6.0\refint\04NumberOperations.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\04NumberOperations\obj\Debug\net6.0\04NumberOperations.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\04NumberOperations\obj\Debug\net6.0\04NumberOperations.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\04NumberOperations\obj\Debug\net6.0\ref\04NumberOperations.dll

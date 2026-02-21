@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\05VacationExpenses\bin\Debug\net6.0\05VacationExpenses.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\05VacationExpenses\bin\Debug\net6.0\05VacationExpenses.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\05VacationExpenses\bin\Debug\net6.0\05VacationExpenses.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\05VacationExpenses\bin\Debug\net6.0\05VacationExpenses.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\05VacationExpenses\bin\Debug\net6.0\05VacationExpenses.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\05VacationExpenses\obj\Debug\net6.0\05VacationExpenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\05VacationExpenses\obj\Debug\net6.0\05VacationExpenses.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\05VacationExpenses\obj\Debug\net6.0\05VacationExpenses.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\05VacationExpenses\obj\Debug\net6.0\05VacationExpenses.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\05VacationExpenses\obj\Debug\net6.0\05VacationExpenses.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\05VacationExpenses\obj\Debug\net6.0\refint\05VacationExpenses.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\05VacationExpenses\obj\Debug\net6.0\05VacationExpenses.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\05VacationExpenses\obj\Debug\net6.0\05VacationExpenses.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\05VacationExpenses\obj\Debug\net6.0\ref\05VacationExpenses.dll

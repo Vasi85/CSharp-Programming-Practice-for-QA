@@ -1,0 +1,14 @@
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\03BiggestOfFiveNumbers\bin\Debug\net6.0\03BiggestOfFiveNumbers.exe
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\03BiggestOfFiveNumbers\bin\Debug\net6.0\03BiggestOfFiveNumbers.deps.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\03BiggestOfFiveNumbers\bin\Debug\net6.0\03BiggestOfFiveNumbers.runtimeconfig.json
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\03BiggestOfFiveNumbers\bin\Debug\net6.0\03BiggestOfFiveNumbers.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\03BiggestOfFiveNumbers\bin\Debug\net6.0\03BiggestOfFiveNumbers.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\03BiggestOfFiveNumbers\obj\Debug\net6.0\03BiggestOfFiveNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\03BiggestOfFiveNumbers\obj\Debug\net6.0\03BiggestOfFiveNumbers.AssemblyInfoInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\03BiggestOfFiveNumbers\obj\Debug\net6.0\03BiggestOfFiveNumbers.AssemblyInfo.cs
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\03BiggestOfFiveNumbers\obj\Debug\net6.0\03BiggestOfFiveNumbers.csproj.CoreCompileInputs.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\03BiggestOfFiveNumbers\obj\Debug\net6.0\03BiggestOfFiveNumbers.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\03BiggestOfFiveNumbers\obj\Debug\net6.0\refint\03BiggestOfFiveNumbers.dll
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\03BiggestOfFiveNumbers\obj\Debug\net6.0\03BiggestOfFiveNumbers.pdb
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\03BiggestOfFiveNumbers\obj\Debug\net6.0\03BiggestOfFiveNumbers.genruntimeconfig.cache
+C:\Users\vasim\OneDrive\Работен плот\QA SoftUni\Programming Fundamentals and Unit Testing\HomeworkConditionalStatements\03BiggestOfFiveNumbers\obj\Debug\net6.0\ref\03BiggestOfFiveNumbers.dll
