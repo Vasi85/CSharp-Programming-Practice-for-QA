@@ -1,0 +1,5 @@
+function repeating(string, n) {
+    console.log(string.repeat(n))
+}
+
+repeating("abc", 3)

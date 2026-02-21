@@ -1,0 +1,13 @@
+function printCurrentElement(array) {
+    let numArray = array.filter((el) => el !== '');
+    let step = Number(array[numArray.length - 1]);
+    let result = [];
+
+    for( let i = 0; i < numArray.length - 1; i += step) {
+        result.push(numArray[i]);
+    }
+    console.log(result.join('\n'));
+}
+
+
+printCurrentElement(['5', '20', '31', '4', '20'], 2)

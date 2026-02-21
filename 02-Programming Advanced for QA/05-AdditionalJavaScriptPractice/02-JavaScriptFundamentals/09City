@@ -1,0 +1,19 @@
+function cityInfo(cityObject) {
+    for (let key in cityObject) {
+        console.log(`${key} -> ${cityObject[key]}`)
+    }
+}
+
+/*function solve(obj){
+    for (const key in obj) {
+        console.log(`${key} -> ${obj[key]}`)
+    }
+}*/
+
+cityInfo({
+    name: "Sofia",
+    area: 492,
+    population: 1238438,
+    country: "Bulgaria",
+    postCode: "1000"
+})

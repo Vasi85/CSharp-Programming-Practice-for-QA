@@ -1,0 +1,56 @@
+function groupInfo(info) {
+    let groupCount = info[0];
+    let groupType = info[1];
+    let dayOfStay = info[2];
+
+    let totalPrice;
+
+    if (groupType === "Students") {
+        if (dayOfStay === "Friday") {
+            pricePerNight = 8.45;
+            totalPrice = groupCount * pricePerNight
+        } else if (dayOfStay === "Saturday") {
+            pricePerNight = 9.80;
+            totalPrice = groupCount * pricePerNight;
+        } else if (dayOfStay === "Sunday") {
+            pricePerNight = 10.46;
+            totalPrice = groupCount * pricePerNight;
+        }
+
+        if (groupCount >= 30) {
+            totalPrice *= 0.85 
+        }
+    } else if (groupType === "Business") {
+        if (groupCount >= 100) {
+            groupCount-= 10; 
+        }
+        if (dayOfStay === "Friday") {
+            pricePerNight = 10.90;
+            totalPrice = groupCount * pricePerNight
+        } else if (dayOfStay === "Saturday") {
+            pricePerNight = 15.60;
+            totalPrice = groupCount * pricePerNight;
+        } else if (dayOfStay === "Sunday") {
+            pricePerNight = 16.00;
+            totalPrice = groupCount * pricePerNight;
+        }
+    } else if (groupType === "Regular") {
+        if (dayOfStay === "Friday") {
+            pricePerNight = 15.00;
+            totalPrice = groupCount * pricePerNight
+        } else if (dayOfStay === "Saturday") {
+            pricePerNight = 20.00;
+            totalPrice = groupCount * pricePerNight;
+        } else if (dayOfStay === "Sunday") {
+            pricePerNight = 22.50;
+            totalPrice = groupCount * pricePerNight;
+        }
+
+        if (groupCount >= 10 && groupCount <= 20) {
+            totalPrice *= 0.95 
+        }
+    }
+    console.log(`Total price: ${totalPrice.toFixed(2)}`)
+}
+
+groupInfo([30, "Students", "Sunday"])
